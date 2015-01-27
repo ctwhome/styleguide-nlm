@@ -4,15 +4,15 @@
 var appPath = 'app/'
 var settings = {
   compass: {
-    mainSass  : appPath + 'styles/main.scss',
+    mainSass  : appPath + 'styles/styles.scss',
     allStyles : appPath + '**/*.scss',
     // It will generate the same name than the source
-    dest      : appPath + 'css',                
-    
+    dest      : appPath + 'css',
+
     // Compass options
     sourcemap : true,
     // Styles: nested, expanded, compact, or compressed
-    style     : 'compressed',                          
+    style     : 'compressed',
     css       : appPath + 'css',
     sass      : appPath + 'styles',
     image     : appPath + 'images',
@@ -37,22 +37,22 @@ var gulp      = require('gulp'),
     path      = require('path'),
     connect   = require('gulp-connect'),
     opn       = require('opn'),                             // Open Browser
-    
+
     compass   = require('gulp-compass'),
     minifyCss = require('gulp-minify-css'),
-    
+
     jshint    = require('gulp-jshint'),
     stylish   = require('jshint-stylish'),
-    
+
     inject    = require('gulp-inject'),
     wiredep   = require('wiredep').stream,
-    
+
     gulpif    = require('gulp-if'),
     useref    = require('gulp-useref'),
-    
+
     uglify    = require('gulp-uglify'),
-    uncss     = require('gulp-uncss'), 
-    plumber   = require('gulp-plumber'), 
+    uncss     = require('gulp-uncss'),
+    plumber   = require('gulp-plumber'),
     angularFilesort     = require('gulp-angular-filesort'),
     templateCache       = require('gulp-angular-templatecache'),
     historyApiFallback  = require('connect-history-api-fallback');
@@ -100,7 +100,7 @@ gulp.task('compass', function() {
     }}))
     .pipe(compass({
       sourcemap: settings.compass.sourcemap,
-      style : settings.compass.style,                 
+      style : settings.compass.style,
       css: settings.compass.css,
       sass: settings.compass.sass,
       image: settings.compass.image,
