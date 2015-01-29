@@ -40,9 +40,34 @@ a {
   background: transparent;
 }
 
-/* line 4, ../sass/framework/_header.scss */
+/* line 5, ../sass/framework/_header.scss */
 .page-header.navbar .page-logo .logo-default {
   margin: 10px 0 0 0;
+}
+
+/* line 9, ../sass/framework/_header.scss */
+.page-header.navbar .top-menu .navbar-nav > li.dropdown > .dropdown-toggle:last-child {
+  padding-right: 16px;
+}
+
+/* line 13, ../sass/framework/_header.scss */
+.menu-toggler-icon {
+  float: left;
+  margin: 29px;
+  background-image: url("../css/metronic/admin/layout2/img/sidebar_toggler_icon_grey.png");
+  display: block;
+  width: 16px;
+  height: 13px;
+}
+/* line 20, ../sass/framework/_header.scss */
+.menu-toggler-icon:hover {
+  background-image: url("../css/metronic/admin/layout2/img/sidebar_toggler_icon_darkblue.png");
+}
+
+/* line 24, ../sass/framework/_header.scss */
+.logo-company {
+  float: left;
+  margin: 10px 0 0 15px;
 }
 
 /* VIEWS - PAGES
