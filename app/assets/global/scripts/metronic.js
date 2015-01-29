@@ -262,7 +262,7 @@ var Metronic = function() {
     // Handles Bootstrap Tabs.
     var handleTabs = function() {
         //activate tab if tab id provided in the URL
-        if (location.hash) {
+         if (location.hash) {
             var tabid = location.hash.substr(1);
             $('a[href="#' + tabid + '"]').parents('.tab-pane:hidden').each(function() {
                 var tabid = $(this).attr("id");

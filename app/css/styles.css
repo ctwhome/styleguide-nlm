@@ -1,2 +1,49 @@
-.hide{display:none}a{cursor:pointer}
-/*# sourceMappingURL=styles.css.map */
+/**
+ * Sass files
+ * ----------------------
+ * @author Jesus Garcia <ctw@ctwhome.com>
+ * @repository https://github.com/ctwhome/sass-structure
+ *
+ * Styles scss
+ * ---------------------
+ */
+/* VENDOR - Default fall-backs and external files.
+========================================================================== */
+@import url(metronic/global/plugins/font-awesome/css/font-awesome.min.css);
+@import url(metronic/global/plugins/simple-line-icons/simple-line-icons.min.css);
+@import url(metronic/global/plugins/bootstrap/css/bootstrap.min.css);
+@import url(metronic/global/plugins/uniform/css/uniform.default.css);
+@import url(metronic/global/plugins/bootstrap-switch/css/bootstrap-switch.min.css);
+@import url(../../assets/global/css/components.css);
+@import url(../../assets/global/css/plugins.css);
+@import url(../../assets/admin/layout2/css/layout.css);
+@import url(../../assets/admin/layout2/css/themes/grey.css);
+@import url(../../assets/admin/layout2/css/custom.css);
+/* BASE - Base Variable file along with starting point Mixins and Placeholders.
+========================================================================== */
+/* MODULES - Re-usable site elements.
+========================================================================== */
+/* FRAMEWORK - Structure and layout files.
+========================================================================== */
+/* line 1, ../sass/framework/_main.scss */
+.hide {
+  display: none;
+}
+
+/* line 5, ../sass/framework/_main.scss */
+a {
+  cursor: pointer;
+}
+
+/* line 1, ../sass/framework/_header.scss */
+.page-header.navbar .page-logo {
+  background: transparent;
+}
+
+/* line 4, ../sass/framework/_header.scss */
+.page-header.navbar .page-logo .logo-default {
+  margin: 10px 0 0 0;
+}
+
+/* VIEWS - PAGES
+========================================================================== */

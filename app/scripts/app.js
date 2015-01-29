@@ -9,7 +9,7 @@
  * Main module of the application.
  */
 angular
-    .module('stocksApp', [
+    .module('App', [
         'ngAnimate',
         'ngCookies',
         'ngResource',
@@ -46,6 +46,10 @@ angular
             .when('/extra-search', {
               templateUrl: 'views/extra-search.html',
               controller: 'ExtraSearchCtrl'
+            })
+            .when('/template-features', {
+              templateUrl: 'views/template-features.html',
+              controller: 'TemplateFeaturesCtrl'
             })
             .otherwise({
                 redirectTo: '/'

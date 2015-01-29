@@ -6,7 +6,7 @@
  * @description
  * # ngToggle
  */
-angular.module('stocksApp')
+angular.module('App')
     .directive('myToggle', function ($rootScope) {
         /**
          * USE

@@ -7,7 +7,7 @@
  * # SettingspaneCtrl
  * Controller of the stocksApp
  */
-angular.module('stocksApp')
+angular.module('App')
   .controller('SettingsPaneCtrl', function ($scope, $layout) {
 
         $scope.$on('toggleSettingsPane', function(event, args) {

@@ -1,0 +1,557 @@
+/***********
+Theme Colors
+***********/
+/* line 6, ../../../../../../sass/framework/metronic/admin/layout4/themes/_base.scss */
+.theme-font-color {
+  color: #5b9bd1;
+}
+
+/***********
+Body bg color
+***********/
+/* line 14, ../../../../../../sass/framework/metronic/admin/layout4/themes/_base.scss */
+body {
+  background: #e9ecf3;
+}
+
+/*********** 
+Page Header
+***********/
+/* Header search bar, toggler button & top menu */
+/* line 23, ../../../../../../sass/framework/metronic/admin/layout4/themes/_base.scss */
+.page-header.navbar {
+  background: #FFFFFF;
+  border-bottom: 1px solid #e9ecf3;
+  /* Top notification menu/bar */
+  /* Header seaech box */
+  /* Menu Toggler */
+}
+/* line 29, ../../../../../../sass/framework/metronic/admin/layout4/themes/_base.scss */
+.page-header.navbar .top-menu .navbar-nav {
+  /* Extended Dropdowns */
+  /* Notification */
+  /* Inbox */
+  /* Tasks */
+  /* User */
+  /* Language */
+  /* Dark version */
+}
+/* line 32, ../../../../../../sass/framework/metronic/admin/layout4/themes/_base.scss */
+.page-header.navbar .top-menu .navbar-nav > li.dropdown .dropdown-toggle:hover {
+  background-color: #f9fafc;
+}
+/* line 36, ../../../../../../sass/framework/metronic/admin/layout4/themes/_base.scss */
+.page-header.navbar .top-menu .navbar-nav > li.dropdown .dropdown-toggle > i {
+  color: #C0CDDC;
+}
+/* line 40, ../../../../../../sass/framework/metronic/admin/layout4/themes/_base.scss */
+.page-header.navbar .top-menu .navbar-nav > li.dropdown .dropdown-toggle .badge.badge-default {
+  background-color: #5b9bd1;
+  color: #ffffff;
+}
+/* line 47, ../../../../../../sass/framework/metronic/admin/layout4/themes/_base.scss */
+.page-header.navbar .top-menu .navbar-nav > li.dropdown.open .dropdown-toggle {
+  background-color: #f9fafc;
+}
+/* line 53, ../../../../../../sass/framework/metronic/admin/layout4/themes/_base.scss */
+.page-header.navbar .top-menu .navbar-nav > li.dropdown .dropdown-menu:before {
+  border-bottom-color: #dce1ec;
+}
+/* line 59, ../../../../../../sass/framework/metronic/admin/layout4/themes/_base.scss */
+.page-header.navbar .top-menu .navbar-nav > li.separator {
+  background: darker(#f8f9fa, 5%);
+}
+/* line 66, ../../../../../../sass/framework/metronic/admin/layout4/themes/_base.scss */
+.page-header.navbar .top-menu .navbar-nav > li.dropdown-extended .dropdown-menu {
+  border: 1px solid #dce1ec;
+}
+/* line 69, ../../../../../../sass/framework/metronic/admin/layout4/themes/_base.scss */
+.page-header.navbar .top-menu .navbar-nav > li.dropdown-extended .dropdown-menu:before {
+  border-bottom-color: #cbd2e3;
+}
+/* line 73, ../../../../../../sass/framework/metronic/admin/layout4/themes/_base.scss */
+.page-header.navbar .top-menu .navbar-nav > li.dropdown-extended .dropdown-menu:after {
+  border-bottom-color: #e3e6f0;
+}
+/* line 77, ../../../../../../sass/framework/metronic/admin/layout4/themes/_base.scss */
+.page-header.navbar .top-menu .navbar-nav > li.dropdown-extended .dropdown-menu > li.external {
+  background: #e3e6f0;
+}
+/* line 80, ../../../../../../sass/framework/metronic/admin/layout4/themes/_base.scss */
+.page-header.navbar .top-menu .navbar-nav > li.dropdown-extended .dropdown-menu > li.external > h3 {
+  color: #62878f;
+}
+/* line 84, ../../../../../../sass/framework/metronic/admin/layout4/themes/_base.scss */
+.page-header.navbar .top-menu .navbar-nav > li.dropdown-extended .dropdown-menu > li.external > a {
+  color: #5b9bd1;
+}
+/* line 87, ../../../../../../sass/framework/metronic/admin/layout4/themes/_base.scss */
+.page-header.navbar .top-menu .navbar-nav > li.dropdown-extended .dropdown-menu > li.external > a:hover {
+  color: #3175af;
+  text-decoration: none;
+}
+/* line 96, ../../../../../../sass/framework/metronic/admin/layout4/themes/_base.scss */
+.page-header.navbar .top-menu .navbar-nav > li.dropdown-extended .dropdown-menu .dropdown-menu-list > li > a {
+  border-bottom: 1px solid #EFF2F6 !important;
+  color: #888888;
+}
+/* line 100, ../../../../../../sass/framework/metronic/admin/layout4/themes/_base.scss */
+.page-header.navbar .top-menu .navbar-nav > li.dropdown-extended .dropdown-menu .dropdown-menu-list > li > a:hover {
+  background: #f8f9fa;
+}
+/* line 115, ../../../../../../sass/framework/metronic/admin/layout4/themes/_base.scss */
+.page-header.navbar .top-menu .navbar-nav > li.dropdown-notification .dropdown-menu .dropdown-menu-list > li > a .time {
+  background: #f1f1f1;
+}
+/* line 120, ../../../../../../sass/framework/metronic/admin/layout4/themes/_base.scss */
+.page-header.navbar .top-menu .navbar-nav > li.dropdown-notification .dropdown-menu .dropdown-menu-list > li > a:hover .time {
+  background: #e4e4e4;
+}
+/* line 133, ../../../../../../sass/framework/metronic/admin/layout4/themes/_base.scss */
+.page-header.navbar .top-menu .navbar-nav > li.dropdown-inbox > .dropdown-toggle > .circle {
+  background-color: #5b9bd1;
+  color: #ffffff;
+}
+/* line 138, ../../../../../../sass/framework/metronic/admin/layout4/themes/_base.scss */
+.page-header.navbar .top-menu .navbar-nav > li.dropdown-inbox > .dropdown-toggle > .corner {
+  border-color: transparent transparent transparent #5b9bd1;
+}
+/* line 146, ../../../../../../sass/framework/metronic/admin/layout4/themes/_base.scss */
+.page-header.navbar .top-menu .navbar-nav > li.dropdown-inbox .dropdown-menu .dropdown-menu-list .subject .from {
+  color: #5b9bd1;
+}
+/* line 159, ../../../../../../sass/framework/metronic/admin/layout4/themes/_base.scss */
+.page-header.navbar .top-menu .navbar-nav > li.dropdown-tasks .dropdown-menu .dropdown-menu-list .progress {
+  background-color: #dfe2e9;
+}
+/* line 170, ../../../../../../sass/framework/metronic/admin/layout4/themes/_base.scss */
+.page-header.navbar .top-menu .navbar-nav > li.dropdown-user > .dropdown-toggle > .username {
+  color: #7FB0DA;
+}
+/* line 174, ../../../../../../sass/framework/metronic/admin/layout4/themes/_base.scss */
+.page-header.navbar .top-menu .navbar-nav > li.dropdown-user > .dropdown-toggle > i {
+  color: #7FB0DA;
+}
+/* line 179, ../../../../../../sass/framework/metronic/admin/layout4/themes/_base.scss */
+.page-header.navbar .top-menu .navbar-nav > li.dropdown-user > .dropdown-menu {
+  width: 195px;
+}
+/* line 188, ../../../../../../sass/framework/metronic/admin/layout4/themes/_base.scss */
+.page-header.navbar .top-menu .navbar-nav > li.dropdown-language > .dropdown-toggle > .langname {
+  color: #7FB0DA;
+}
+/* line 196, ../../../../../../sass/framework/metronic/admin/layout4/themes/_base.scss */
+.page-header.navbar .top-menu .navbar-nav > li.dropdown-dark .dropdown-menu {
+  background: #536470;
+  border: 0;
+}
+/* line 200, ../../../../../../sass/framework/metronic/admin/layout4/themes/_base.scss */
+.page-header.navbar .top-menu .navbar-nav > li.dropdown-dark .dropdown-menu:after {
+  border-bottom-color: #536470;
+}
+/* line 204, ../../../../../../sass/framework/metronic/admin/layout4/themes/_base.scss */
+.page-header.navbar .top-menu .navbar-nav > li.dropdown-dark .dropdown-menu > li.external {
+  background: #414f59;
+}
+/* line 207, ../../../../../../sass/framework/metronic/admin/layout4/themes/_base.scss */
+.page-header.navbar .top-menu .navbar-nav > li.dropdown-dark .dropdown-menu > li.external > h3 {
+  color: #c5ced4;
+}
+/* line 212, ../../../../../../sass/framework/metronic/admin/layout4/themes/_base.scss */
+.page-header.navbar .top-menu .navbar-nav > li.dropdown-dark .dropdown-menu > li.external > a:hover {
+  color: #87b6dd;
+}
+/* line 221, ../../../../../../sass/framework/metronic/admin/layout4/themes/_base.scss */
+.page-header.navbar .top-menu .navbar-nav > li.dropdown-dark .dropdown-menu.dropdown-menu-default > li a,
+.page-header.navbar .top-menu .navbar-nav > li.dropdown-dark .dropdown-menu .dropdown-menu-list > li a {
+  color: #d4dadf;
+  border-bottom: 1px solid #607482 !important;
+}
+/* line 225, ../../../../../../sass/framework/metronic/admin/layout4/themes/_base.scss */
+.page-header.navbar .top-menu .navbar-nav > li.dropdown-dark .dropdown-menu.dropdown-menu-default > li a > i,
+.page-header.navbar .top-menu .navbar-nav > li.dropdown-dark .dropdown-menu .dropdown-menu-list > li a > i {
+  color: #b6c2c9;
+}
+/* line 229, ../../../../../../sass/framework/metronic/admin/layout4/themes/_base.scss */
+.page-header.navbar .top-menu .navbar-nav > li.dropdown-dark .dropdown-menu.dropdown-menu-default > li a:hover,
+.page-header.navbar .top-menu .navbar-nav > li.dropdown-dark .dropdown-menu .dropdown-menu-list > li a:hover {
+  background: #5b6f7c;
+}
+/* line 238, ../../../../../../sass/framework/metronic/admin/layout4/themes/_base.scss */
+.page-header.navbar .top-menu .navbar-nav > li.dropdown-dark .dropdown-menu.dropdown-menu-default > li a {
+  border-bottom: 0 !important;
+}
+/* line 242, ../../../../../../sass/framework/metronic/admin/layout4/themes/_base.scss */
+.page-header.navbar .top-menu .navbar-nav > li.dropdown-dark .dropdown-menu.dropdown-menu-default > li.divider {
+  background: #607482;
+}
+/* line 255, ../../../../../../sass/framework/metronic/admin/layout4/themes/_base.scss */
+.page-header.navbar .top-menu .navbar-nav > li.dropdown-notification.dropdown-dark .dropdown-menu .dropdown-menu-list > li > a .time {
+  background: #485762;
+}
+/* line 260, ../../../../../../sass/framework/metronic/admin/layout4/themes/_base.scss */
+.page-header.navbar .top-menu .navbar-nav > li.dropdown-notification.dropdown-dark .dropdown-menu .dropdown-menu-list > li > a:hover .time {
+  background: #3d4a53;
+}
+/* line 273, ../../../../../../sass/framework/metronic/admin/layout4/themes/_base.scss */
+.page-header.navbar .search-form {
+  background: #FFFFFF;
+}
+/* line 276, ../../../../../../sass/framework/metronic/admin/layout4/themes/_base.scss */
+.page-header.navbar .search-form .input-group {
+  border: 1px solid #ced6de;
+}
+/* line 279, ../../../../../../sass/framework/metronic/admin/layout4/themes/_base.scss */
+.page-header.navbar .search-form .input-group:hover {
+  border-color: darker(#ced6de, 5%);
+}
+/* line 283, ../../../../../../sass/framework/metronic/admin/layout4/themes/_base.scss */
+.page-header.navbar .search-form .input-group .form-control {
+  color: #ced6de;
+}
+/* line 40, ../../../../../../sass/framework/metronic/global/components/_mixins.scss */
+.page-header.navbar .search-form .input-group .form-control::-moz-placeholder {
+  color: #cbd4dc;
+  opacity: 1;
+}
+/* line 41, ../../../../../../sass/framework/metronic/global/components/_mixins.scss */
+.page-header.navbar .search-form .input-group .form-control:-ms-input-placeholder {
+  color: #cbd4dc;
+}
+/* line 42, ../../../../../../sass/framework/metronic/global/components/_mixins.scss */
+.page-header.navbar .search-form .input-group .form-control::-webkit-input-placeholder {
+  color: #cbd4dc;
+}
+/* line 291, ../../../../../../sass/framework/metronic/admin/layout4/themes/_base.scss */
+.page-header.navbar .search-form .input-group .input-group-btn .btn.submit > i {
+  color: #ced6de;
+}
+/* line 300, ../../../../../../sass/framework/metronic/admin/layout4/themes/_base.scss */
+.page-header.navbar .menu-toggler {
+  background-image: url(../../img/sidebar-toggle-light.png);
+}
+/* line 304, ../../../../../../sass/framework/metronic/admin/layout4/themes/_base.scss */
+.page-header.navbar .page-actions .btn-group .btn-sm.btn-transparent {
+  background: none;
+  border: 1px solid white;
+  color: white;
+}
+/* line 309, ../../../../../../sass/framework/metronic/admin/layout4/themes/_base.scss */
+.page-header.navbar .page-actions .btn-group .btn-sm.btn-transparent > i {
+  color: white;
+}
+/* line 313, ../../../../../../sass/framework/metronic/admin/layout4/themes/_base.scss */
+.page-header.navbar .page-actions .btn-group .btn-sm.btn-transparent:hover, .page-header.navbar .page-actions .btn-group .btn-sm.btn-transparent:focus, .page-header.navbar .page-actions .btn-group .btn-sm.btn-transparent.active {
+  background: none;
+  border: 1px solid white;
+  color: white;
+}
+/* line 320, ../../../../../../sass/framework/metronic/admin/layout4/themes/_base.scss */
+.page-header.navbar .page-actions .btn-group .btn-sm.btn-transparent:hover > i, .page-header.navbar .page-actions .btn-group .btn-sm.btn-transparent:focus > i, .page-header.navbar .page-actions .btn-group .btn-sm.btn-transparent.active > i {
+  color: white;
+}
+
+/* Page sidebar */
+/* line 329, ../../../../../../sass/framework/metronic/admin/layout4/themes/_base.scss */
+.page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover,
+.page-sidebar {
+  background-color: #ffffff;
+  /* Default sidebar */
+}
+/* line 334, ../../../../../../sass/framework/metronic/admin/layout4/themes/_base.scss */
+.page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu,
+.page-sidebar .page-sidebar-menu {
+  /* 1st level links */
+  /* All links */
+}
+/* line 340, ../../../../../../sass/framework/metronic/admin/layout4/themes/_base.scss */
+.page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu > li.heading > h3,
+.page-sidebar .page-sidebar-menu > li.heading > h3 {
+  color: #5C9ACF;
+}
+/* line 345, ../../../../../../sass/framework/metronic/admin/layout4/themes/_base.scss */
+.page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu > li > a,
+.page-sidebar .page-sidebar-menu > li > a {
+  color: #485a6a;
+}
+@media (max-width: 991px) {
+  /* line 345, ../../../../../../sass/framework/metronic/admin/layout4/themes/_base.scss */
+  .page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu > li > a,
+  .page-sidebar .page-sidebar-menu > li > a {
+    /* 991px */
+    border-top: 1px solid white;
+  }
+}
+/* line 352, ../../../../../../sass/framework/metronic/admin/layout4/themes/_base.scss */
+.page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu > li > a > i,
+.page-sidebar .page-sidebar-menu > li > a > i {
+  color: #97b1c3;
+}
+/* line 356, ../../../../../../sass/framework/metronic/admin/layout4/themes/_base.scss */
+.page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu > li > a > i[class^="icon-"],
+.page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu > li > a > i[class*="icon-"],
+.page-sidebar .page-sidebar-menu > li > a > i[class^="icon-"],
+.page-sidebar .page-sidebar-menu > li > a > i[class*="icon-"] {
+  color: #a7bdcd;
+}
+/* line 368, ../../../../../../sass/framework/metronic/admin/layout4/themes/_base.scss */
+.page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu > li > a > .arrow:before, .page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu > li > a > .arrow.open:before,
+.page-sidebar .page-sidebar-menu > li > a > .arrow:before,
+.page-sidebar .page-sidebar-menu > li > a > .arrow.open:before {
+  color: #a0b8c9;
+}
+/* line 377, ../../../../../../sass/framework/metronic/admin/layout4/themes/_base.scss */
+.page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu > li:hover > a, .page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu > li.open > a,
+.page-sidebar .page-sidebar-menu > li:hover > a,
+.page-sidebar .page-sidebar-menu > li.open > a {
+  background: #f2f6f9;
+  color: #5b9bd1;
+}
+/* line 381, ../../../../../../sass/framework/metronic/admin/layout4/themes/_base.scss */
+.page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu > li:hover > a > i, .page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu > li.open > a > i,
+.page-sidebar .page-sidebar-menu > li:hover > a > i,
+.page-sidebar .page-sidebar-menu > li.open > a > i {
+  color: #5b9bd1;
+}
+/* line 386, ../../../../../../sass/framework/metronic/admin/layout4/themes/_base.scss */
+.page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu > li:hover > a > .arrow:before, .page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu > li:hover > a > .arrow.open:before, .page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu > li.open > a > .arrow:before, .page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu > li.open > a > .arrow.open:before,
+.page-sidebar .page-sidebar-menu > li:hover > a > .arrow:before,
+.page-sidebar .page-sidebar-menu > li:hover > a > .arrow.open:before,
+.page-sidebar .page-sidebar-menu > li.open > a > .arrow:before,
+.page-sidebar .page-sidebar-menu > li.open > a > .arrow.open:before {
+  color: #67a2d4;
+}
+/* line 396, ../../../../../../sass/framework/metronic/admin/layout4/themes/_base.scss */
+.page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu > li.active > a, .page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu > li.active.open > a,
+.page-sidebar .page-sidebar-menu > li.active > a,
+.page-sidebar .page-sidebar-menu > li.active.open > a {
+  background: #f2f6f9;
+  color: #5b9bd1;
+}
+/* line 400, ../../../../../../sass/framework/metronic/admin/layout4/themes/_base.scss */
+.page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu > li.active > a:hover, .page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu > li.active.open > a:hover,
+.page-sidebar .page-sidebar-menu > li.active > a:hover,
+.page-sidebar .page-sidebar-menu > li.active.open > a:hover {
+  background: #f2f6f9;
+}
+/* line 404, ../../../../../../sass/framework/metronic/admin/layout4/themes/_base.scss */
+.page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu > li.active > a > i, .page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu > li.active.open > a > i,
+.page-sidebar .page-sidebar-menu > li.active > a > i,
+.page-sidebar .page-sidebar-menu > li.active.open > a > i {
+  color: #5b9bd1;
+}
+/* line 409, ../../../../../../sass/framework/metronic/admin/layout4/themes/_base.scss */
+.page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu > li.active > a > .arrow:before, .page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu > li.active > a > .arrow.open:before, .page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu > li.active.open > a > .arrow:before, .page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu > li.active.open > a > .arrow.open:before,
+.page-sidebar .page-sidebar-menu > li.active > a > .arrow:before,
+.page-sidebar .page-sidebar-menu > li.active > a > .arrow.open:before,
+.page-sidebar .page-sidebar-menu > li.active.open > a > .arrow:before,
+.page-sidebar .page-sidebar-menu > li.active.open > a > .arrow.open:before {
+  color: #67a2d4;
+}
+/* line 418, ../../../../../../sass/framework/metronic/admin/layout4/themes/_base.scss */
+.page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu > li.active > a,
+.page-sidebar .page-sidebar-menu > li.active > a {
+  border-left: 3px solid #5C9ACF !important;
+  margin-left: -3px;
+  padding-left: 15px;
+}
+/* line 431, ../../../../../../sass/framework/metronic/admin/layout4/themes/_base.scss */
+.page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu li > a > .arrow:before, .page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu li > a > .arrow.open:before,
+.page-sidebar .page-sidebar-menu li > a > .arrow:before,
+.page-sidebar .page-sidebar-menu li > a > .arrow.open:before {
+  color: #a0b8c9;
+}
+/* line 441, ../../../../../../sass/framework/metronic/admin/layout4/themes/_base.scss */
+.page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu li:hover > a > .arrow:before, .page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu li:hover > a > .arrow.open:before,
+.page-sidebar .page-sidebar-menu li:hover > a > .arrow:before,
+.page-sidebar .page-sidebar-menu li:hover > a > .arrow.open:before {
+  color: #67a2d4;
+}
+/* line 452, ../../../../../../sass/framework/metronic/admin/layout4/themes/_base.scss */
+.page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu li.active > a > .arrow:before, .page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu li.active > a > .arrow.open:before,
+.page-sidebar .page-sidebar-menu li.active > a > .arrow:before,
+.page-sidebar .page-sidebar-menu li.active > a > .arrow.open:before {
+  color: #67a2d4;
+}
+/* line 462, ../../../../../../sass/framework/metronic/admin/layout4/themes/_base.scss */
+.page-sidebar-closed .page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu:hover .sub-menu, .page-sidebar-closed
+.page-sidebar .page-sidebar-menu:hover .sub-menu {
+  background: #FFFFFF;
+}
+/* line 469, ../../../../../../sass/framework/metronic/admin/layout4/themes/_base.scss */
+.page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu .sub-menu > li > a,
+.page-sidebar .page-sidebar-menu .sub-menu > li > a {
+  color: #485a6a;
+}
+/* line 472, ../../../../../../sass/framework/metronic/admin/layout4/themes/_base.scss */
+.page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu .sub-menu > li > a > i,
+.page-sidebar .page-sidebar-menu .sub-menu > li > a > i {
+  color: #97b1c3;
+}
+/* line 476, ../../../../../../sass/framework/metronic/admin/layout4/themes/_base.scss */
+.page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu .sub-menu > li > a > i[class^="icon-"],
+.page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu .sub-menu > li > a > i[class*="icon-"],
+.page-sidebar .page-sidebar-menu .sub-menu > li > a > i[class^="icon-"],
+.page-sidebar .page-sidebar-menu .sub-menu > li > a > i[class*="icon-"] {
+  color: #a7bdcd;
+}
+/* line 488, ../../../../../../sass/framework/metronic/admin/layout4/themes/_base.scss */
+.page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu .sub-menu > li > a > .arrow:before, .page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu .sub-menu > li > a > .arrow.open:before,
+.page-sidebar .page-sidebar-menu .sub-menu > li > a > .arrow:before,
+.page-sidebar .page-sidebar-menu .sub-menu > li > a > .arrow.open:before {
+  color: #a0b8c9;
+}
+/* line 498, ../../../../../../sass/framework/metronic/admin/layout4/themes/_base.scss */
+.page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu .sub-menu > li:hover > a, .page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu .sub-menu > li.open > a, .page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu .sub-menu > li.active > a,
+.page-sidebar .page-sidebar-menu .sub-menu > li:hover > a,
+.page-sidebar .page-sidebar-menu .sub-menu > li.open > a,
+.page-sidebar .page-sidebar-menu .sub-menu > li.active > a {
+  color: #5b9bd1;
+  background: #f2f6f9 !important;
+}
+/* line 503, ../../../../../../sass/framework/metronic/admin/layout4/themes/_base.scss */
+.page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu .sub-menu > li:hover > a > i, .page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu .sub-menu > li.open > a > i, .page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu .sub-menu > li.active > a > i,
+.page-sidebar .page-sidebar-menu .sub-menu > li:hover > a > i,
+.page-sidebar .page-sidebar-menu .sub-menu > li.open > a > i,
+.page-sidebar .page-sidebar-menu .sub-menu > li.active > a > i {
+  color: #5b9bd1;
+}
+/* line 508, ../../../../../../sass/framework/metronic/admin/layout4/themes/_base.scss */
+.page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu .sub-menu > li:hover > a > .arrow:before, .page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu .sub-menu > li:hover > a > .arrow.open:before, .page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu .sub-menu > li.open > a > .arrow:before, .page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu .sub-menu > li.open > a > .arrow.open:before, .page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu .sub-menu > li.active > a > .arrow:before, .page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu .sub-menu > li.active > a > .arrow.open:before,
+.page-sidebar .page-sidebar-menu .sub-menu > li:hover > a > .arrow:before,
+.page-sidebar .page-sidebar-menu .sub-menu > li:hover > a > .arrow.open:before,
+.page-sidebar .page-sidebar-menu .sub-menu > li.open > a > .arrow:before,
+.page-sidebar .page-sidebar-menu .sub-menu > li.open > a > .arrow.open:before,
+.page-sidebar .page-sidebar-menu .sub-menu > li.active > a > .arrow:before,
+.page-sidebar .page-sidebar-menu .sub-menu > li.active > a > .arrow.open:before {
+  color: #67a2d4;
+}
+
+/******
+Page Footer 
+******/
+/* line 526, ../../../../../../sass/framework/metronic/admin/layout4/themes/_base.scss */
+.page-footer .page-footer-inner {
+  color: #33404c;
+}
+/* line 530, ../../../../../../sass/framework/metronic/admin/layout4/themes/_base.scss */
+.page-footer-fixed .page-footer {
+  background-color: #e9ecf3;
+}
+/* line 533, ../../../../../../sass/framework/metronic/admin/layout4/themes/_base.scss */
+.page-footer-fixed .page-footer .page-footer-inner {
+  color: black;
+}
+
+/* line 541, ../../../../../../sass/framework/metronic/admin/layout4/themes/_base.scss */
+.page-boxed .page-footer .page-footer-inner {
+  color: black;
+}
+/* line 545, ../../../../../../sass/framework/metronic/admin/layout4/themes/_base.scss */
+.page-footer-fixed .page-boxed .page-footer {
+  background-color: #e9ecf3;
+}
+
+@media (min-width: 992px) {
+  /* 992px */
+  /* Sidebar menu closed */
+  /* line 556, ../../../../../../sass/framework/metronic/admin/layout4/themes/_base.scss */
+  .page-sidebar-menu.page-sidebar-menu-hover-submenu li:hover > .sub-menu {
+    box-shadow: 5px 5px rgba(140, 178, 198, 0.2);
+  }
+
+  /* line 564, ../../../../../../sass/framework/metronic/admin/layout4/themes/_base.scss */
+  .page-sidebar-menu.page-sidebar-menu-closed > li:hover {
+    box-shadow: 5px 5px rgba(140, 178, 198, 0.2);
+  }
+  /* line 567, ../../../../../../sass/framework/metronic/admin/layout4/themes/_base.scss */
+  .page-sidebar-menu.page-sidebar-menu-closed > li:hover > .sub-menu {
+    box-shadow: 5px 5px rgba(140, 178, 198, 0.2);
+  }
+
+  /* Fixed Sidebar */
+  /* line 576, ../../../../../../sass/framework/metronic/admin/layout4/themes/_base.scss */
+  .page-sidebar-fixed:not(.page-footer-fixed) .page-content {
+    border-bottom: 0;
+  }
+  /* line 581, ../../../../../../sass/framework/metronic/admin/layout4/themes/_base.scss */
+  .page-sidebar-fixed:not(.page-footer-fixed) .page-footer .page-footer-inner {
+    color: #333;
+  }
+
+  /* Boxed Layout */
+  /* line 589, ../../../../../../sass/framework/metronic/admin/layout4/themes/_base.scss */
+  .page-boxed {
+    /* Page container */
+  }
+  /* line 592, ../../../../../../sass/framework/metronic/admin/layout4/themes/_base.scss */
+  .page-boxed .page-container {
+    background-color: #e9ecf3;
+  }
+  /* line 597, ../../../../../../sass/framework/metronic/admin/layout4/themes/_base.scss */
+  .page-boxed.page-sidebar-reversed .page-container {
+    border-left: 0;
+  }
+  /* line 603, ../../../../../../sass/framework/metronic/admin/layout4/themes/_base.scss */
+  .page-boxed.page-sidebar-fixed .page-container {
+    border-left: 0;
+    border-bottom: 0;
+  }
+  /* line 610, ../../../../../../sass/framework/metronic/admin/layout4/themes/_base.scss */
+  .page-boxed.page-sidebar-reversed.page-sidebar-fixed .page-container {
+    border-left: 0;
+    border-right: 0;
+    border-bottom: 0;
+  }
+
+  /* Sidebar Menu Wirh Hoverable Submenu */
+  /* line 624, ../../../../../../sass/framework/metronic/admin/layout4/themes/_base.scss */
+  .page-sidebar-menu-hover-submenu li:hover a > .arrow {
+    border-right: 8px solid #FFFFFF;
+  }
+  /* line 627, ../../../../../../sass/framework/metronic/admin/layout4/themes/_base.scss */
+  .page-sidebar-reversed .page-sidebar-menu-hover-submenu li:hover a > .arrow {
+    border-left: 8px solid #FFFFFF;
+  }
+  /* line 633, ../../../../../../sass/framework/metronic/admin/layout4/themes/_base.scss */
+  .page-sidebar-menu-hover-submenu li:hover > .sub-menu {
+    background: #FFFFFF !important;
+  }
+}
+@media (max-width: 991px) {
+  /* 991px */
+  /* line 642, ../../../../../../sass/framework/metronic/admin/layout4/themes/_base.scss */
+  .page-header.navbar {
+    padding: 0;
+    /* Top menu */
+  }
+  /* line 650, ../../../../../../sass/framework/metronic/admin/layout4/themes/_base.scss */
+  .page-header.navbar .top-menu .navbar-nav > li.dropdown > .dropdown-toggle:hover {
+    background-color: #f6f7fa;
+  }
+}
+@media (max-width: 767px) {
+  /* 767px */
+  /* line 661, ../../../../../../sass/framework/metronic/admin/layout4/themes/_base.scss */
+  .page-header.navbar {
+    background: #FFFFFF;
+    border-bottom: 1px solid white;
+    /* Top menu */
+  }
+  /* line 666, ../../../../../../sass/framework/metronic/admin/layout4/themes/_base.scss */
+  .page-header.navbar .page-top {
+    background: #FFFFFF;
+  }
+  /* line 674, ../../../../../../sass/framework/metronic/admin/layout4/themes/_base.scss */
+  .page-header.navbar .top-menu .navbar-nav > li.dropdown > .dropdown-toggle:hover {
+    background-color: #eff1f6;
+  }
+}
+/****
+ CSS3 Spinner Bar  
+****/
+/* line 687, ../../../../../../sass/framework/metronic/admin/layout4/themes/_base.scss */
+.page-spinner-bar > div,
+.block-spinner-bar > div {
+  background: #6fa7d7;
+}

@@ -7,7 +7,7 @@
  * # CourseCtrl
  * Controller of the stocksApp
  */
-angular.module('stocksApp')
+angular.module('App')
   .controller('CourseCtrl', function ($scope) {
     $scope.awesomeThings = [
       'HTML5 Boilerplate',

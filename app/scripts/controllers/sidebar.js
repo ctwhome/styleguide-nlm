@@ -7,7 +7,7 @@
  * # SidebarCtrl
  * Controller of the stocksApp
  */
-angular.module('stocksApp')
+angular.module('App')
     .controller('SidebarCtrl', function ($scope, $layout) {
 
         $scope.$on('toggleSidebar', function(event, args) {
