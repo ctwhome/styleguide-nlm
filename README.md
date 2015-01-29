@@ -1,4 +1,4 @@
-Stocks Application
+Styleguide framework
 ====================
 An application to follow stock market's trends
 
