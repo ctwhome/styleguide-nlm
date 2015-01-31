@@ -2,10 +2,10 @@
 
 /**
  * @ngdoc function
- * @name stocksApp.controller:ExtraSearchCtrl
+ * @name App.controller:ExtraSearchCtrl
  * @description
  * # ExtraSearchCtrl
- * Controller of the stocksApp
+ * Controller of the App
  */
 angular.module('App')
   .controller('ExtraSearchCtrl', function ($scope) {

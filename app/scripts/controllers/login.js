@@ -2,10 +2,10 @@
 
 /**
  * @ngdoc function
- * @name stocksApp.controller:LoginCtrl
+ * @name App.controller:LoginCtrl
  * @description
  * # LoginCtrl
- * Controller of the stocksApp
+ * Controller of the App
  */
 angular.module('App')
   .controller('LoginCtrl', function ($scope) {

@@ -2,10 +2,10 @@
 
 /**
  * @ngdoc function
- * @name stocksApp.controller:SettingspaneCtrl
+ * @name App.controller:SettingspaneCtrl
  * @description
  * # SettingspaneCtrl
- * Controller of the stocksApp
+ * Controller of the App
  */
 angular.module('App')
   .controller('SettingsPaneCtrl', function ($scope, $layout) {

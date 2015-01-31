@@ -2,10 +2,10 @@
 
 /**
  * @ngdoc function
- * @name stocksApp.controller:HelpCtrl
+ * @name App.controller:HelpCtrl
  * @description
  * # HelpCtrl
- * Controller of the stocksApp
+ * Controller of the App
  */
 angular.module('App')
   .controller('HelpCtrl', function ($scope) {

@@ -2,10 +2,10 @@
 
 /**
  * @ngdoc function
- * @name stocksApp.controller:SidebarCtrl
+ * @name App.controller:SidebarCtrl
  * @description
  * # SidebarCtrl
- * Controller of the stocksApp
+ * Controller of the App
  */
 angular.module('App')
     .controller('SidebarCtrl', function ($scope, $layout) {

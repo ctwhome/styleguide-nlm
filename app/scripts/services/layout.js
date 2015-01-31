@@ -2,12 +2,12 @@
 
 /**
  * @ngdoc service
- * @name stocksApp.layout
+ * @name App.layout
  * @description
  * # layout
- * Factory in the stocksApp.
+ * Factory in the App.
  */
-angular.module('stocksApp')
+angular.module('App')
     .factory('$layout', function () {
         // Service logic
         // ... var meaningOfLife = 42;

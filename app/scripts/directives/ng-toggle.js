@@ -2,7 +2,7 @@
 
 /**
  * @ngdoc directive
- * @name stocksApp.directive:ngToggle
+ * @name App.directive:ngToggle
  * @description
  * # ngToggle
  */

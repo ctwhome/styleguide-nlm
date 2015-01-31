@@ -2,73 +2,23 @@
 
 /**
  * @ngdoc function
- * @name stocksApp.controller:IconsCtrl
+ * @name App.controller:IconsCtrl
  * @description
  * # IconsCtrl
- * Controller of the stocksApp
+ * Controller of the App
  */
-angular.module('App')
-  .controller('IconsCtrl', function ($scope, $http) {
 
-    var tabClasses;
-      
-      function initTabs() {
-        tabClasses = ["","",""];
-      }
-      
-      $scope.getTabClass = function (tabNum) {
-        return tabClasses[tabNum];
-      };
-      
-      $scope.getTabPaneClass = function (tabNum) {
-        return "tab-pane " + tabClasses[tabNum];
-      }
-      
-      $scope.setActiveTab = function (tabNum) {
-        initTabs();
-        tabClasses[tabNum] = "active";
-      };
+angular.module('App').
+    controller('IconsCtrl', ['$scope', function($scope) {
+        $scope.activeTab = 'tab1';
+        $scope.tabTemplates = {
+            tab1: 'views/icons-1.html',
+            tab2: 'views/icons-2.html',
+            tab3: 'views/icons-3.html'
+        };
 
-
-       $scope.tab1 = 'views/icons-1.html';
-       $scope.tab2 = 'views/icons-2.html';
-       $scope.tab3 = 'views/icons-3.html';
-    
-
-    $scope.fetchContent1 = function() {
-        $http.get($scope.tab1).then(function(result){
-             $scope.tab1 = result.data;
-        });
-    }
-
-     $scope.fetchContent2 = function() {
-        $http.get($scope.tab2).then(function(result){
-             $scope.tab2 = result.data;
-        });
-    }
-
-     $scope.fetchContent3 = function() {
-        $http.get($scope.tab3).then(function(result){
-             $scope.tab3 = result.data;
-        });
-    }
-    $scope.fetchContent1();
-    $scope.fetchContent2();
-    $scope.fetchContent3();
-
-
-     
-            
-      //Initialize 
-      initTabs();
-      $scope.setActiveTab(1);
-
-
-
-
-
-
-
-
-
-  });
+        $scope.switchTabTo = function (tabId) {
+            $scope.activeTab = tabId;
+            /* other stuff to do */
+        };
+    }]);

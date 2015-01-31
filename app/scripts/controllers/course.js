@@ -2,10 +2,10 @@
 
 /**
  * @ngdoc function
- * @name stocksApp.controller:CourseCtrl
+ * @name App.controller:CourseCtrl
  * @description
  * # CourseCtrl
- * Controller of the stocksApp
+ * Controller of the App
  */
 angular.module('App')
   .controller('CourseCtrl', function ($scope) {

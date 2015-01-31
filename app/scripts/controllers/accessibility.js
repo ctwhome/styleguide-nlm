@@ -2,10 +2,10 @@
 
 /**
  * @ngdoc function
- * @name stocksApp.controller:AccessibilityCtrl
+ * @name App.controller:AccessibilityCtrl
  * @description
  * # AccessibilityCtrl
- * Controller of the stocksApp
+ * Controller of the App
  */
 angular.module('App')
   .controller('AccessibilityCtrl', function ($scope) {

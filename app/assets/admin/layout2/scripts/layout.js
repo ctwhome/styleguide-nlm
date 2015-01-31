@@ -320,9 +320,20 @@ var Layout = function() {
     // Hanles sidebar toggler
     var handleSidebarToggler = function() {
         var body = $('body');
+        if (body.hasClass('page-sidebar-closed')) {
+            $(this).find('.page-sidebar-menu').addClass('page-sidebar-menu-closed');
+//            console.log("entra");
+        }
         if ($.cookie && $.cookie('sidebar_closed') === '1' && Metronic.getViewPort().width >= resBreakpointMd) {
             $('body').addClass('page-sidebar-closed');
             $('.page-sidebar-menu').addClass('page-sidebar-menu-closed');
+
+            console.log("entra");
+            if ($('body').hasClass('page-sidebar-closed')){
+            console.log("entra sii");
+
+            }
+
         }
 
         // handle sidebar show/hide

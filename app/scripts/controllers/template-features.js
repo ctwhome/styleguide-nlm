@@ -2,10 +2,10 @@
 
 /**
  * @ngdoc function
- * @name stocksApp.controller:TemplateFeaturesCtrl
+ * @name App.controller:TemplateFeaturesCtrl
  * @description
  * # TemplateFeaturesCtrl
- * Controller of the stocksApp
+ * Controller of the App
  */
 angular.module('App')
   .controller('TemplateFeaturesCtrl', function ($scope) {

@@ -2,10 +2,10 @@
 
 /**
  * @ngdoc function
- * @name stocksApp.controller:VersionlogCtrl
+ * @name App.controller:VersionlogCtrl
  * @description
  * # VersionlogCtrl
- * Controller of the stocksApp
+ * Controller of the App
  */
 angular.module('App')
   .controller('VersionlogCtrl', function ($scope) {

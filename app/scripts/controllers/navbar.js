@@ -2,10 +2,10 @@
 
 /**
  * @ngdoc function
- * @name stocksApp.controller:NavbarCtrl
+ * @name App.controller:NavbarCtrl
  * @description
  * # NavbarCtrl
- * Controller of the stocksApp
+ * Controller of the App
  */
 angular.module('App')
     .controller('NavbarCtrl', function ($scope, $rootScope) {

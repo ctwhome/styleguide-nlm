@@ -2,12 +2,12 @@
 
 /**
  * @ngdoc service
- * @name stocksApp.layoutToggles
+ * @name App.layoutToggles
  * @description
  * # layoutToggles
- * Factory in the stocksApp.
+ * Factory in the App.
  */
-angular.module('stocksApp',[])
+angular.module('App',[])
     .factory('$layoutToggles', function ($rootScope, $layout) {
     // Service logic  Private functions
 
