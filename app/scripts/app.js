@@ -15,7 +15,8 @@ angular
         'ngResource',
         'ngRoute',
         'ngSanitize',
-        'ngTouch'
+        'ngTouch',
+        'ui.bootstrap'
     ])
     .config(function ($routeProvider, $locationProvider) {
         $routeProvider
@@ -54,6 +55,10 @@ angular
             .when('/color', {
               templateUrl: 'views/color.html',
               controller: 'ColorCtrl'
+            })
+            .when('/ui-bootstrap', {
+              templateUrl: 'views/ui-bootstrap.html',
+              controller: 'UiBootstrapCtrl'
             })
             .otherwise({
                 redirectTo: '/'
