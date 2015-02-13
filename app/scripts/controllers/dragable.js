@@ -2,13 +2,13 @@
 
 /**
  * @ngdoc function
- * @name stocksApp.controller:ColorCtrl
+ * @name stocksApp.controller:DragableCtrl
  * @description
- * # ColorCtrl
+ * # DragableCtrl
  * Controller of the stocksApp
  */
 angular.module('App')
-  .controller('ColorCtrl', function ($scope) {
+  .controller('DragableCtrl', function ($scope) {
     $scope.awesomeThings = [
       'HTML5 Boilerplate',
       'AngularJS',

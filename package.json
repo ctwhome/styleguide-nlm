@@ -1,12 +1,14 @@
 {
-  "name": "Stocks",
+  "name": "App",
   "version": "1.0.0",
-  "description": "A stock market graphics",
+  "description": "A guide Style",
   "main": "Gulpfile.js",
   "directories": {
     "test": "test"
   },
-  "dependencies": {},
+  "dependencies": {
+    "restangular": "^1.4.0"
+  },
   "devDependencies": {
     "connect-history-api-fallback": "0.0.5",
     "gulp": "^3.8.10",
@@ -32,7 +34,7 @@
     "test": "test"
   },
   "keywords": [
-    "stock",
+    "styleguide",
     "angular"
   ],
   "author": "Jesus Garcia <ctw@ctwhome.com> (http://ctwhome.com/)",
