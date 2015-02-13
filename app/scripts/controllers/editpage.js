@@ -9,20 +9,20 @@
  */
 angular.module('App')
   .controller('EditpageCtrl',
-    function ($rootScope, $scope) {
+    function ($rootScope, $scope, $http) {
 
+        $http.get('https://api.mongolab.com/api/1/databases/styleguide/collections/content?apiKey=9xkyuiXnGhk_EzhreL1uLaPqIoIIkOxo').
+            success(function(data) {
+                $scope.content = data[0].content;
+            });
 
-        $scope.posts = [
-            {title: 'post 1', upvotes: 5},
-            {title: 'post 2', upvotes: 2},
-            {title: 'post 3', upvotes: 15},
-            {title: 'post 4', upvotes: 9},
-            {title: 'post 5', upvotes: 4}
-        ];
+                $scope.content = "Loading content";
 
+        $scope.ckEditors = [];
+        $scope.addEditor = function(){
 
-        $rootScope.title = 'AngularJS with Restangular';
-
+            $scope.ckEditors.push({value:$scope.content});
+        }
 
 
   });

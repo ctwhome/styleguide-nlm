@@ -1,17 +1,13 @@
 <h2>This page recieve the content from the DataBase in MongoLabs</h2>
 
 <p>First, a list of all the content that we have</p>
-<div ng-repeat="post in posts">
-    {{post.title}} - upvotes: {{post.upvotes}}
+
+   <div ng-bind-html="content[0].Content"></div>
+
+<a ng-click="addEditor()" class="btn btn-info"><span class="glyphicon glyphicon-pencil"></span> Edit page</a>
+
+
+<div ng-repeat="editor in ckEditors">
+   <textarea data-ng-model="content[0].Content" data-ck-editor></textarea>
+   <br />
 </div>
-
-
-<h3>ID</h3>
-
-<h3>Title</h3>
-
-<h3>Title menu</h3>
-
-<h3>Content</h3>
-
-

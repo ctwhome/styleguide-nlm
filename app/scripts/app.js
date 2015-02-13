@@ -15,8 +15,7 @@ angular
         'ngResource',
         'ngRoute',
         'ngSanitize',
-        'ngTouch',
-        'ui.bootstrap'
+        'ngTouch'
     ])
     .config(
         function ($routeProvider,$locationProvider) {
@@ -74,5 +73,5 @@ angular
                 });
 
         // use the HTML5 History API
-        $locationProvider.html5Mode(true);
+        $locationProvider.html5Mode(false);
     });
