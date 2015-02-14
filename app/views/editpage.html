@@ -1,16 +1,17 @@
-<h2>This page recieve the content from the DataBase in MongoLabs</h2>
+<h2>{{data.title}}</h2>
 
-<p>First, a list of all the content that we have</p>
-
-   <div ng-bind-html="content[0].Content"></div>
+   <div ng-bind-html="data.content"></div>
 
 <a ng-click="addEditor()" class="btn btn-info"><span class="glyphicon glyphicon-pencil"></span> Edit page</a>
 
 
-<div ng-repeat="editor in ckEditors">
-   <textarea data-ng-model="content[0].Content" data-ck-editor></textarea>
-   <br />
+<!--<div ng-repeat="editor in ckEditors">-->
+   <!---->
+   <!--<br />-->
+<!--</div>-->
+
+<div ng-show="editor">
+   <textarea data-ng-model="data.content" data-ck-editor></textarea>
+   <a ng-click="closeEditor()" >Cancel</a>
+   <a ng-click="saveData()" class="btn btn-success">Save data</a>
 </div>
-
-
-<a ng-click="saveData()" class="btn btn-alert"><span class="glyphicon glyphicon-pencil"></span> Save data</a>
