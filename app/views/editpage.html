@@ -1,22 +1,23 @@
+<h2 id="editor1" contenteditable="{{inlineEditor}}">{{data.title}}</h2>
 
-<h2  contenteditable="true" >{{data.title}}</h2>
+<div class="span6 pull-right">
+    <a ng-click="addEditor()" class="btn  btn-success btn-info"><span class="glyphicon glyphicon-pencil"></span> Edit page</a>
+    <a ng-click="enableEdit()" class="btn btn-info"><span class="glyphicon glyphicon-pencil"></span> Enable inline editor</a>
+</div>
 
-<div contenteditable="true" ng-bind-html="data.content" ></div>
-
-
-<a ng-click="addEditor()" class="btn btn-info"><span class="glyphicon glyphicon-pencil"></span> Edit page</a>
+<div ng-bind-html="data.content"></div>
 
 <!--<div ng-repeat="editor in ckEditors">-->
-   <!---->
-   <!--<br />-->
+<!---->
+<!--<br />-->
 <!--</div>-->
-<div ng-show="editor">ca
-   <textarea data-ng-model="data.content" data-ck-editor></textarea>
-   <a ng-click="closeEditor()"   >Cancel </a>
-   <a ng-click="saveData()" class="btn btn-success"> Save data</a>
+<div ng-show="editor">
+    <textarea data-ng-model="data.content" data-ck-editor></textarea>
+    <a ng-click="closeEditor()">Cancel </a>
+    <a ng-click="saveData()" class="btn btn-success"> Save data</a>
 </div>
 
 <br/><br/>
 <p><strong>Or wait a moment!</strong><br/>
-<p contenteditable="true" >You also can edit this inline!! is not marcellous?</p>
+<p contenteditable="{{inlineEditor}}">You also can edit this inline!! is not marcellous?</p>
 </p>
