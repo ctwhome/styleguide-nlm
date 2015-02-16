@@ -1,17 +1,22 @@
-<h2>{{data.title}}</h2>
 
-   <div ng-bind-html="data.content"></div>
+<h2  contenteditable="true" >{{data.title}}</h2>
+
+<div contenteditable="true" ng-bind-html="data.content" ></div>
+
 
 <a ng-click="addEditor()" class="btn btn-info"><span class="glyphicon glyphicon-pencil"></span> Edit page</a>
-
 
 <!--<div ng-repeat="editor in ckEditors">-->
    <!---->
    <!--<br />-->
 <!--</div>-->
-
-<div ng-show="editor">
+<div ng-show="editor">ca
    <textarea data-ng-model="data.content" data-ck-editor></textarea>
-   <a ng-click="closeEditor()" >Cancel</a>
-   <a ng-click="saveData()" class="btn btn-success">Save data</a>
+   <a ng-click="closeEditor()"   >Cancel </a>
+   <a ng-click="saveData()" class="btn btn-success"> Save data</a>
 </div>
+
+<br/><br/>
+<p><strong>Or wait a moment!</strong><br/>
+<p contenteditable="true" >You also can edit this inline!! is not marcellous?</p>
+</p>

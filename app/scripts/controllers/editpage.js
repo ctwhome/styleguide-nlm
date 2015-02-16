@@ -19,7 +19,15 @@ angular.module('App')
 
         $scope.editor = false;
 
-
+        CKEDITOR.disableAutoInline = true;
+        CKEDITOR.inlineAll( {
+            toolbar: [
+                ['Source'],
+                ['Cut', 'Copy', 'Paste'],
+                ['Undo', 'Redo'],
+                ['Bold', 'Italic', 'Underline']
+            ]
+        });
         /**
          * Load data
          */
@@ -31,6 +39,10 @@ angular.module('App')
                     menutitle:  data[0].menutitle,
                     id: id
                 }
+
+
+
+
             });
 
 
