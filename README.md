@@ -13,6 +13,7 @@ bower install   // To install vendor libraries
 gulp           // To set the application
 ``
 
+
 Dev
 -----
 You need to have compass working on your computer (command line)
@@ -20,3 +21,8 @@ You need to have compass working on your computer (command line)
 gulp server   // Run dev server
 gulp server-dist  // Run server (Dist)
 ``
+
+
+Create a view: 
+-----
+yo angular:route NameOfView

@@ -68,6 +68,14 @@ angular
                   templateUrl: 'views/dragable.html',
                   controller: 'DragableCtrl'
                 })
+                .when('/forms', {
+                  templateUrl: 'views/forms.html',
+                  controller: 'FormsCtrl'
+                })
+                .when('/page-login', {
+                  templateUrl: 'views/page-login.html',
+                  controller: 'PageLoginCtrl'
+                })
                 .otherwise({
                     redirectTo: '/'
                 });
