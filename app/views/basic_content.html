@@ -1,0 +1,42 @@
+<!-- BEGIN PAGE HEADER-->
+
+<!--contenteditable="{{editor}}"-->
+
+<h3 class="page-title">
+    <span id="pageTitle"  contenteditable="{{editor}}" >
+        {{data.pageTitle}}
+    </span>
+    <small id="shortDescription"  contenteditable="{{editor}}" >{{data.shortDescription}} </small>
+</h3>
+
+<div class="page-bar">
+    <ul class="page-breadcrumb">
+        <li>
+            <i class="fa fa-home"></i>
+            <a href="/#/">Home</a>
+            <i class="fa fa-angle-right"></i>
+        </li>
+        <li>
+            <span>{{data.menuTitle}}</span>
+        </li>
+    </ul>
+    <div class="page-toolbar">
+        <div class="pull-right">
+            <a ng-show="editor" ng-click="saveData()" class="btn btn-success"> Save</a>
+            <a ng-show="editor" ng-click="cancelEdit()" class="btn btn-default"> Cancel</a>
+            <a ng-show="!editor" ng-click="toggleEdit()" class="btn btn-success btn-info"><span class="glyphicon glyphicon-pencil"></span> Edit</a>
+        </div>
+    </div>
+</div>
+
+<!-- BEGIN PAGE CONTENT-->
+<div class="portlet light">
+    <div class="portlet-body">
+        <div class="row">
+            <div id="contentEditor" class="col-md-12" ng-bind-html="data.contentPage">
+                {{data.contentPage}}
+            </div>
+        </div>
+    </div>
+</div>
+<!-- END PAGE CONTENT-->

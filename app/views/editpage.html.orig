@@ -1,0 +1,608 @@
+<<<<<<< HEAD
+<!DOCTYPE html>
+<!-- saved from url=(0019)http://twofold.com/ -->
+<html class="js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths sb-init skrollr skrollr-desktop twofold-done" itemscope="" itemtype="http://schema.org/Article" style="">
+<!--<![endif]-->
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta charset="utf-8">
+
+    <meta name="author" content="Twofold">
+    <title>Graphic Design &amp; Web Design Brisbane | Twofold Creative</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+
+    <script type="text/javascript" async="" src="http://www.google-analytics.com/ga.js"></script>
+    <script type="text/javascript">
+        //<![CDATA[
+        try {
+            if (!window.CloudFlare) {
+                var CloudFlare = [{
+                    verbose: 0,
+                    p: 0,
+                    byc: 0,
+                    owlid: "cf",
+                    bag2: 1,
+                    mirage2: 0,
+                    oracle: 0,
+                    paths: {cloudflare: "/cdn-cgi/nexp/dok3v=1613a3a185/"},
+                    atok: "fac627b1e0d6db7c18dd8442ef82e5ee",
+                    petok: "c42e823825ffdcba4f4b50fd5f4854b6884ad5f7-1425321500-1800",
+                    zone: "twofold.com",
+                    rocket: "m",
+                    apps: {"ga_key": {"ua": "UA-49394602-1", "ga_bs": "2"}}
+                }];
+                document.write('<script type="text/javascript" src="//ajax.cloudflare.com/cdn-cgi/nexp/dok3v=919620257c/cloudflare.min.js"><' + '\/script>');
+            }
+        } catch (e) {
+        }
+        ;
+        //]]>
+    </script>
+    <script type="text/javascript" src="./Graphic Design & Web Design Brisbane   Twofold Creative_files/cloudflare.min.js"></script>
+    <style type="text/css">.cf-hidden {
+        display: none;
+    }
+
+    .cf-invisible {
+        visibility: hidden;
+    }</style>
+    <script data-module="cloudflare/rocket" id="cfjs_block_c07166efc3" onload="CloudFlare.__cfjs_block_c07166efc3_load()" onerror="CloudFlare.__cfjs_block_c07166efc3_error()" onreadystatechange="CloudFlare.__cfjs_block_c07166efc3_readystatechange()" type="text/javascript" src="./Graphic Design & Web Design Brisbane   Twofold Creative_files/rocket.js"></script>
+    <link rel="stylesheet" href="./Graphic Design & Web Design Brisbane   Twofold Creative_files/styles.php" type="text/css" media="screen">
+
+    <link rel="shortcut icon" href="http://twofold.com/wp-content/themes/theme/assets/img/icons/favicon.ico">
+    <link rel="apple-touch-icon" sizes="57x57" href="http://twofold.com/wp-content/themes/theme/assets/img/icons/apple-touch-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="http://twofold.com/wp-content/themes/theme/assets/img/icons/apple-touch-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="http://twofold.com/wp-content/themes/theme/assets/img/icons/apple-touch-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="http://twofold.com/wp-content/themes/theme/assets/img/icons/apple-touch-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="http://twofold.com/wp-content/themes/theme/assets/img/icons/apple-touch-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="http://twofold.com/wp-content/themes/theme/assets/img/icons/apple-touch-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="http://twofold.com/wp-content/themes/theme/assets/img/icons/apple-touch-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="http://twofold.com/wp-content/themes/theme/assets/img/icons/apple-touch-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="http://twofold.com/wp-content/themes/theme/assets/img/icons/apple-touch-icon-180x180.png">
+    <link rel="icon" type="image/png" href="http://twofold.com/wp-content/themes/theme/assets/img/icons/favicon-192x192.png" sizes="192x192">
+    <link rel="icon" type="image/png" href="http://twofold.com/wp-content/themes/theme/assets/img/icons/favicon-160x160.png" sizes="160x160">
+    <link rel="icon" type="image/png" href="http://twofold.com/wp-content/themes/theme/assets/img/icons/favicon-96x96.png" sizes="96x96">
+    <link rel="icon" type="image/png" href="http://twofold.com/wp-content/themes/theme/assets/img/icons/favicon-16x16.png" sizes="16x16">
+    <link rel="icon" type="image/png" href="http://twofold.com/wp-content/themes/theme/assets/img/icons/favicon-32x32.png" sizes="32x32">
+    <meta name="msapplication-TileColor" content="#bc8420">
+    <meta name="msapplication-TileImage" content="http://twofold.com/wp-content/themes/theme/assets/img/icons/mstile-144x144.png">
+    <meta name="msapplication-config" content="http://twofold.com/wp-content/themes/theme/assets/img/icons/browserconfig.xml">
+    <script src="./Graphic Design & Web Design Brisbane   Twofold Creative_files/modernizr-2.6.2-respond-1.1.0.min.js"></script>
+
+
+    <meta name="description" content="Twofold is a boutique, creative, web design and graphic design studio based in Brisbane. We work for clients in Melbourne, Sydney and throughout the world.">
+    <link rel="canonical" href="./Graphic Design & Web Design Brisbane   Twofold Creative_files/Graphic Design & Web Design Brisbane   Twofold Creative.html">
+    <link rel="publisher" href="https://plus.google.com/+Twofold/about">
+    <meta property="og:locale" content="en_US">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Graphic Design &amp; Web Design Brisbane | Twofold Creative">
+    <meta property="og:description" content="Twofold is a boutique, creative, web design and graphic design studio based in Brisbane. We work for clients in Melbourne, Sydney and throughout the world.">
+    <meta property="og:url" content="http://twofold.com/">
+    <meta property="og:site_name" content="Twofold Graphic &amp; Web Design">
+    <meta property="article:publisher" content="https://www.facebook.com/twofoldcreative">
+    <meta property="og:image" content="http://192.168.1.29:5757/twofold_twofold/media/meta-facebook.png">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@twofoldcreative">
+    <meta name="twitter:domain" content="Twofold Graphic &amp; Web Design">
+    <meta name="twitter:creator" content="@twofoldcreative">
+    <meta name="twitter:image:src" content="http://192.168.1.29:5757/twofold_twofold/media/meta-facebook.png">
+    <meta itemprop="description" content="Twofold is a boutique, creative, web design and graphic design studio based in Brisbane. We work for clients in Melbourne, Sydney and throughout the world.">
+    <script type="application/ld+json">
+        { "@context": "http://schema.org", "@type": "WebSite", "url": "http://twofold.com/", "potentialAction": { "@type": "SearchAction", "target": "http://twofold.com/?s={search_term}", "query-input": "required name=search_term" } }
+    </script>
+
+    <link rel="alternate" type="application/rss+xml" title="Twofold Graphic &amp; Web Design » Home Comments Feed" href="http://twofold.com/home/feed/">
+    <script>var jquery_placeholder_url = 'http://twofold.com/wp-content/plugins/gravity-forms-placeholders/jquery.placeholder-1.0.1.js';</script>
+    <script type="text/javascript" src="./Graphic Design & Web Design Brisbane   Twofold Creative_files/jquery.min.js"></script>
+    <script type="text/javascript" src="./Graphic Design & Web Design Brisbane   Twofold Creative_files/gf.placeholders.js"></script>
+    <meta name="generator" content="WordPress 4.0">
+    <link rel="shortlink" href="./Graphic Design & Web Design Brisbane   Twofold Creative_files/Graphic Design & Web Design Brisbane   Twofold Creative.html">
+
+    <script>
+        var templateURL = 'http://twofold.com/wp-content/themes/theme';
+    </script>
+    <script type="text/javascript">/* CloudFlare analytics upgrade */
+    </script>
+    <script type="text/javascript">
+        /* <![CDATA[ */
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-49394602-1']);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+            var ga = document.createElement('script');
+            ga.type = 'text/javascript';
+            ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(ga, s);
+        })();
+
+        (function (b) {
+            (function (a) {
+                "__CF"in b && "DJS"in b.__CF ? b.__CF.DJS.push(a) : "addEventListener"in b ? b.addEventListener("load", a, !1) : b.attachEvent("onload", a)
+            })(function () {
+                "FB"in b && "Event"in FB && "subscribe"in FB.Event && (FB.Event.subscribe("edge.create", function (a) {
+                    _gaq.push(["_trackSocial", "facebook", "like", a])
+                }), FB.Event.subscribe("edge.remove", function (a) {
+                    _gaq.push(["_trackSocial", "facebook", "unlike", a])
+                }), FB.Event.subscribe("message.send", function (a) {
+                    _gaq.push(["_trackSocial", "facebook", "send", a])
+                }));
+                "twttr"in b && "events"in twttr && "bind"in twttr.events && twttr.events.bind("tweet", function (a) {
+                    if (a) {
+                        var b;
+                        if (a.target && a.target.nodeName == "IFRAME")a:{
+                            if (a = a.target.src) {
+                                a = a.split("#")[0].match(/[^?=&]+=([^&]*)?/g);
+                                b = 0;
+                                for (var c; c = a[b]; ++b)if (c.indexOf("url") === 0) {
+                                    b = unescape(c.split("=")[1]);
+                                    break a
+                                }
+                            }
+                            b = void 0
+                        }
+                        _gaq.push(["_trackSocial", "twitter", "tweet", b])
+                    }
+                })
+            })
+        })(window);
+        /* ]]> */
+    </script>
+    <style type="text/css"></style>
+    <script type="text/javascript" charset="UTF-8" data-rocketsrc="https://maps.gstatic.com/maps-api-v3/api/js/20/1/intl/es_ALL/common.js" data-rocketoptimized="true"></script>
+    <script type="text/javascript" charset="UTF-8" data-rocketsrc="https://maps.gstatic.com/maps-api-v3/api/js/20/1/intl/es_ALL/util.js" data-rocketoptimized="true"></script>
+    <script type="text/javascript" charset="UTF-8" data-rocketsrc="https://maps.gstatic.com/maps-api-v3/api/js/20/1/intl/es_ALL/stats.js" data-rocketoptimized="true"></script>
+</head>
+<body id="skrollr-body" class="home page page-id-4 page-template page-template-home-php pjax-ready pjax-complete pjax-ended" data-gsag="" data-gsag-default-duration="1" data-gsag-default-easing="Expo.easeOut" data-gsag-default-transform-perspective="2000" style="pointer-events: auto;">
+<div id="preloader">
+    <img src="./Graphic Design & Web Design Brisbane   Twofold Creative_files/logo.svg" alt="Twofold">
+</div>
+<header id="header" class="headroom headroom--pinned headroom--top">
+    <a class="link-logo" href="./Graphic Design & Web Design Brisbane   Twofold Creative_files/Graphic Design & Web Design Brisbane   Twofold Creative.html"><img src="./Graphic Design & Web Design Brisbane   Twofold Creative_files/logo.svg" alt="Twofold"></a>
+    <a class="link-refine trigger trigger-icon trigger-plus"><span>Refine</span></a>
+    <a class="link-menu trigger"><span>Menu</span></a>
+</header>
+<div id="pjax-container" data-pjax-container="">
+    <div id="pjax-container-inner" data-pjax-container-inner="" class="home page page-id-4 page-template page-template-home-php">
+        <i class="text-top hidden-xs fadeInLeft">Featured: Lexus of Brisbane</i>
+
+        <div id="foreground" class="hero">
+            <div class="feature-foreground">
+                <img src="./Graphic Design & Web Design Brisbane   Twofold Creative_files/feature-item-foregroundlight.png" alt="" data-0="transform: translate3d(0px, 0px, 0px); -webkit-transform: translate3d(0px, 0px, 0px)" data-2000="transform: translate3d(0px, -1600px, 0px); -webkit-transform: translate3d(0px, -1600px, 0px)" class="skrollable skrollable-between" style="-webkit-transform: translate3d(0px, 0px, 0px); transform: translate3d(0px, 0px, 0px);">
+            </div>
+            <div class="feature-focus">
+                <img src="./Graphic Design & Web Design Brisbane   Twofold Creative_files/feature-home-lights.png" class="feature-lights skrollable skrollable-between" alt="" data-0="transform: translate3d(0px, 0px, 0px); -webkit-transform: translate3d(0px, 0px, 0px)" data-2000="transform: translate3d(0px, -1800px, 0px); -webkit-transform: translate3d(0px, -1600px, 0px)" style="-webkit-transform: translate3d(0px, 0px, 0px); transform: translate3d(0px, 0px, 0px);">
+                <img src="./Graphic Design & Web Design Brisbane   Twofold Creative_files/feature-home-car.png" alt="" data-0="transform: translate3d(0px, 0px, 0px); -webkit-transform: translate3d(0px, 0px, 0px)" data-2000="transform: translate3d(0px, -1800px, 0px); -webkit-transform: translate3d(0px, -1600px, 0px)" class="skrollable skrollable-between" style="-webkit-transform: translate3d(0px, 0px, 0px); transform: translate3d(0px, 0px, 0px);">
+            </div>
+        </div>
+        <div id="background" class="hero">
+            <div class="feature-background">
+                <div id="page-bg" class="feature-background-wrapper skrollable skrollable-between" data-0="transform: translate3d(0px, 0px, 0px); -webkit-transform: translate3d(0px, 0px, 0px)" data-2000="transform: translate3d(0px, -1400px, 0px); -webkit-transform: translate3d(0px, -1400px, 0px)" style="-webkit-transform: translate3d(0px, 0px, 0px); transform: translate3d(0px, 0px, 0px); position: relative; overflow: hidden;">
+                    <img src="./Graphic Design & Web Design Brisbane   Twofold Creative_files/feature-lot.jpg" alt="Twofold" class="is-loaded" style="position: absolute; max-width: none; width: 2448.15668202765px; height: 1275px; left: -986.078341013825px; top: 0px;">
+                </div>
+            </div>
+        </div>
+        <div id="hero" class="hero hero-home">
+            <div class="circle-info circle-info-bottom">
+                <a href="http://twofold.com/#content" class="trigger trigger-arrow trigger-arrow-down"><span class="centered-translate">Down</span></a>
+            </div>
+            <h1 class="home-text skrollable skrollable-between" data-0="transform: translate3d(0px, 0px, 0px); -webkit-transform: translate3d(0px, 0px, 0px)" data-2000="transform: translate3d(0px, -1000px, 0px); -webkit-transform: translate3d(0px, -1000px, 0px)" style="-webkit-transform: translate3d(0px, 0px, 0px); transform: translate3d(0px, 0px, 0px);">
+                We're Twofold<span>—</span></h1>
+
+            <div class="hero-content-wrapper">
+                <div class="container hero-content dark">
+                    <div class="row">
+                        <div class="col-md-12 align-center">
+                            <i class="home-number home-number-first">0</i><i class="home-number home-number-second">2</i>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="wrapper">
+            <div id="content">
+                <div class="grid">
+                    <div class="grid-sizer"></div>
+                    <div class="item title bg-brand" data-gsag="" data-gsag-trigger="onscreen" data-gsag-initial-rotation-x="-120" data-gsag-initial-transform-origin="left middle" data-gsag-final-rotation-x="0" style="transform: matrix3d(1, 0, 0, 0, 0, -0.49999, -0.86602, 0, 0, 0.86602, -0.49999, 0, 0, 0, 0, 1);">
+                        <div class="item-text brand">
+                            <i>Latest Updates</i>
+                            <hr class="sm">
+                            <h2>Blog &amp; Work</h2>
+                        </div>
+                    </div>
+                    <a href="http://twofold.com/work/harrison-james/" class="item is-post height-2" data-gsag="" data-gsag-trigger="onscreen" data-gsag-initial-rotation-y="-85" data-gsag-initial-transform-origin="left middle" data-gsag-final-rotation-y="0" style="transform: matrix3d(0.08715, 0, 0.99619, 0, 0, 1, 0, 0, -0.99619, 0, 0.08715, 0, 0, 0, 0, 1);">
+                        <div class="item-text light">
+                            <i>Harrison James</i>
+                            <hr class="sm">
+                            <h2>11/<br>10</h2>
+                        </div>
+                        <img src="./Graphic Design & Web Design Brisbane   Twofold Creative_files/twofold-hrj-tile1.jpg" alt="Harrison James" class="is-loaded">
+                    </a>
+                    <a href="http://twofold.com/work/sam-thies/" class="item is-post width-2 height-2" data-gsag="" data-gsag-trigger="onscreen" data-gsag-initial-rotation-x="-85" data-gsag-initial-transform-origin="left middle" data-gsag-final-rotation-x="0" style="transform: matrix3d(1, 0, 0, 0, 0, 0.08715, -0.99619, 0, 0, 0.99619, 0.08715, 0, 0, 0, 0, 1);">
+                        <div class="item-text light">
+                            <i>Sam Thies</i>
+                            <hr class="sm">
+                            <h2>10/<br>10</h2>
+                        </div>
+                        <img src="./Graphic Design & Web Design Brisbane   Twofold Creative_files/twofold-grid-samthies.jpg" alt="Sam Thies" class="is-loaded">
+                    </a>
+                    <a href="http://twofold.com/work/twitter-music/" class="item is-post width-2 height-2" data-gsag="" data-gsag-trigger="onscreen" data-gsag-initial-rotation-x="-85" data-gsag-initial-transform-origin="left middle" data-gsag-final-rotation-x="0" style="transform: matrix3d(1, 0, 0, 0, 0, 0.08715, -0.99619, 0, 0, 0.99619, 0.08715, 0, 0, 0, 0, 1);">
+                        <div class="item-text light">
+                            <i>Twitter Music</i>
+                            <hr class="sm">
+                            <h2>24/<br>08</h2>
+                        </div>
+                        <img src="./Graphic Design & Web Design Brisbane   Twofold Creative_files/twofold-tile-twitter.jpg" alt="Twitter Music" class="is-loaded">
+                    </a>
+                    <a href="http://twofold.com/work/carbitex/" class="item is-post height-2" data-gsag="" data-gsag-trigger="onscreen" data-gsag-initial-rotation-y="-85" data-gsag-initial-transform-origin="left middle" data-gsag-final-rotation-y="0" style="transform: matrix3d(0.08715, 0, 0.99619, 0, 0, 1, 0, 0, -0.99619, 0, 0.08715, 0, 0, 0, 0, 1);">
+                        <div class="item-text dark">
+                            <i>Carbitex</i>
+                            <hr class="sm">
+                            <h2>21/<br>08</h2>
+                        </div>
+                        <img src="./Graphic Design & Web Design Brisbane   Twofold Creative_files/twofold-tile-carbitex.jpg" alt="Carbitex" class="is-loaded">
+                    </a>
+                    <a href="http://twofold.com/work/toyota/" class="item is-post width-2" data-gsag="" data-gsag-trigger="onscreen" data-gsag-initial-rotation-y="-85" data-gsag-initial-transform-origin="left middle" data-gsag-final-rotation-y="0" style="transform: matrix3d(0.08715, 0, 0.99619, 0, 0, 1, 0, 0, -0.99619, 0, 0.08715, 0, 0, 0, 0, 1);">
+                        <div class="item-text light">
+                            <i>Toyota 86</i>
+                            <hr class="sm">
+                            <h2>15/<br>08</h2>
+                        </div>
+                        <img src="./Graphic Design & Web Design Brisbane   Twofold Creative_files/twofold-tile-toyota.jpg" alt="Toyota 86" class="is-loaded">
+                    </a>
+                    <a href="http://twofold.com/work/lexus/" class="item is-post width-2 height-2" data-gsag="" data-gsag-trigger="onscreen" data-gsag-initial-rotation-y="-85" data-gsag-initial-transform-origin="left middle" data-gsag-final-rotation-y="0" style="transform: matrix3d(0.08715, 0, 0.99619, 0, 0, 1, 0, 0, -0.99619, 0, 0.08715, 0, 0, 0, 0, 1);">
+                        <div class="item-text dark">
+                            <i>Lexus of Brisbane</i>
+                            <hr class="sm">
+                            <h2>22/<br>06</h2>
+                        </div>
+                        <img src="./Graphic Design & Web Design Brisbane   Twofold Creative_files/twofold-tile-lexus.jpg" alt="Lexus of Brisbane" class="is-loaded">
+                    </a>
+                </div>
+            </div>
+            <div class="form-wrapper hidden-xs">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-sm-8 col-sm-offset-2">
+                            <div class="hidden-xs">
+                                <div class="gf_browser_chrome gform_wrapper gplaceholder_wrapper" id="gform_wrapper_1">
+                                    <form method="post" enctype="multipart/form-data" target="gform_ajax_frame_1" id="gform_1" class="gplaceholder" action="http://twofold.com/?_pjax=%23pjax-container">
+                                        <div class="gform_body">
+                                            <ul id="gform_fields_1" class="gform_fields top_label description_below">
+                                                <li id="field_1_1" class="gfield               gfield_contains_required">
+                                                    <label class="gfield_label" for="input_1_1" style="display: none;">Name<span class="gfield_required">*</span></label>
+
+                                                    <div class="ginput_container">
+                                                        <input name="input_1" id="input_1_1" type="text" value="" class="medium" tabindex="1" placeholder="Name *">
+                                                    </div>
+                                                    <a class="form-info" data-toggle="popover" data-trigger="hover" data-placement="left" data-content="Enter your name" data-original-title="Name"><img src="./Graphic Design & Web Design Brisbane   Twofold Creative_files/icon-name-sm.svg" alt="Name"></a>
+                                                </li>
+                                                <li id="field_1_3" class="gfield               gfield_contains_required">
+                                                    <label class="gfield_label" for="input_1_3" style="display: none;">Email<span class="gfield_required">*</span></label>
+
+                                                    <div class="ginput_container">
+                                                        <input name="input_3" id="input_1_3" type="text" value="" class="medium" tabindex="2" placeholder="Email *">
+                                                    </div>
+                                                    <a class="form-info" data-toggle="popover" data-trigger="hover" data-placement="left" data-content="Enter your email address" data-original-title="Email"><img src="./Graphic Design & Web Design Brisbane   Twofold Creative_files/icon-mail-sm.svg" alt="Email"></a>
+                                                </li>
+                                                <li id="field_1_4" class="gfield">
+                                                    <label class="gfield_label" for="input_1_4" style="display: none;">Message</label>
+
+                                                    <div class="ginput_container">
+                                                        <input name="input_4" id="input_1_4" type="text" value="" class="medium" tabindex="3" placeholder="Message">
+                                                    </div>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                        <div class="gform_footer top_label">
+                                            <input type="submit" id="gform_submit_button_1" class="gform_button button" value="Submit" tabindex="4" onclick="if(window[&quot;gf_submitting_1&quot;]){return false;}  window[&quot;gf_submitting_1&quot;]=true; " data-toggle="popover" data-trigger="hover" data-placement="left" data-content="Send your message" data-original-title="Send" placeholder=""><input type="hidden" name="gform_ajax" value="form_id=1&amp;title=&amp;description=&amp;tabindex=1">
+                                            <input type="hidden" class="gform_hidden" name="is_submit_1" value="1">
+                                            <input type="hidden" class="gform_hidden" name="gform_submit" value="1">
+                                            <input type="hidden" class="gform_hidden" name="gform_unique_id" value="">
+                                            <input type="hidden" class="gform_hidden" name="state_1" value="WyJbXSIsImI3MWQzYTY3YmRhMGMyYTU3NGFiYTQwNzM4ZTEyZTE0Il0=">
+                                            <input type="hidden" class="gform_hidden" name="gform_target_page_number_1" id="gform_target_page_number_1" value="0">
+                                            <input type="hidden" class="gform_hidden" name="gform_source_page_number_1" id="gform_source_page_number_1" value="1">
+                                            <input type="hidden" name="gform_field_values" value="">
+                                        </div>
+                                    </form>
+                                </div>
+                                <iframe style="display:none;width:0px;height:0px;" src="about:blank" name="gform_ajax_frame_1" id="gform_ajax_frame_1"></iframe>
+                                <script type="text/javascript">jQuery(document).ready(function ($) {
+                                    gformInitSpinner(1, 'http://twofold.com/wp-content/plugins/gravityforms/images/spinner.gif');
+                                    jQuery('#gform_ajax_frame_1').load(function () {
+                                        var contents = jQuery(this).contents().find('*').html();
+                                        var is_postback = contents.indexOf('GF_AJAX_POSTBACK') >= 0;
+                                        if (!is_postback) {
+                                            return;
+                                        }
+                                        var form_content = jQuery(this).contents().find('#gform_wrapper_1');
+                                        var is_redirect = contents.indexOf('gformRedirect(){') >= 0;
+                                        var is_form = !(form_content.length <= 0 || is_redirect);
+                                        if (is_form) {
+                                            jQuery('#gform_wrapper_1').html(form_content.html());
+                                            if (window['gformInitDatepicker']) {
+                                                gformInitDatepicker();
+                                            }
+                                            if (window['gformInitPriceFields']) {
+                                                gformInitPriceFields();
+                                            }
+                                            var current_page = jQuery('#gform_source_page_number_1').val();
+                                            gformInitSpinner(1, 'http://twofold.com/wp-content/plugins/gravityforms/images/spinner.gif');
+                                            jQuery(document).trigger('gform_page_loaded', [1, current_page]);
+                                            window['gf_submitting_1'] = false;
+                                        } else if (!is_redirect) {
+                                            var confirmation_content = jQuery(this).contents().find('#gforms_confirmation_message').html();
+                                            if (!confirmation_content) {
+                                                confirmation_content = contents;
+                                            }
+                                            setTimeout(function () {
+                                                jQuery('#gform_wrapper_1').replaceWith('<' + 'div id=\'gforms_confirmation_message\' class=\'gform_confirmation_message_1\'' + '>' + confirmation_content + '<' + '/div' + '>');
+                                                jQuery(document).trigger('gform_confirmation_loaded', [1]);
+                                                window['gf_submitting_1'] = false;
+                                            }, 50);
+                                        } else {
+                                            jQuery('#gform_1').append(contents);
+                                            if (window['gformRedirect']) {
+                                                gformRedirect();
+                                            }
+                                        }
+                                        jQuery(document).trigger('gform_post_render', [1, current_page]);
+                                    });
+                                });</script>
+                                <script type="text/javascript"> jQuery(document).ready(function () {
+                                    jQuery(document).trigger('gform_post_render', [1, 1])
+                                }); </script>
+                            </div>
+                            <div class="bar visible-xs">
+                                <i class="gray-darker">Get in touch</i>
+                                <hr class="sm hr-center">
+                                <a href="" class="btn" data-toggle="modal" data-target="#modal-fullscreen">Contact
+                                    Us</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <footer id="footer">
+                <div class="container">
+                    <div class="row">
+                        <div class="col col-xs-4 footer-link footer-link-1">
+                            <a href="" data-toggle="modal" data-target="#modal-fullscreen">
+                                <img src="./Graphic Design & Web Design Brisbane   Twofold Creative_files/icon-mail.svg" alt="Email Twofold">
+                                <i class="hidden-xs">info@twofold.com</i>
+                                <i class="visible-xs">Email</i>
+                                <small>Email</small>
+                            </a>
+                        </div>
+                        <div class="col col-xs-4 footer-link footer-link-2">
+                            <a href="http://twofold.com/contact">
+                                <img src="./Graphic Design & Web Design Brisbane   Twofold Creative_files/icon-marker.svg" alt="Visit Twofold">
+                                <i class="hidden-xs">View Locations</i>
+                                <i class="visible-xs">Locations</i>
+                                <small>Visit</small>
+                            </a>
+                        </div>
+                        <div class="col col-xs-4 footer-link footer-link-3">
+                            <a href="tel:61-7-3150-9547">
+                                <img src="./Graphic Design & Web Design Brisbane   Twofold Creative_files/icon-phone.svg" alt="Phone Twofold">
+                                <i class="hidden-xs">+61 7 3150 9547</i>
+                                <i class="visible-xs">Call</i>
+                                <small>Phone</small>
+                            </a>
+                        </div>
+                        <div class="col-sm-12 footer-social hidden-xs">
+                            <ul>
+                                <li><a target="_blank" href="http://facebook.com/twofoldcreative" class="icon-facebook"><span class="icon-facebook"></span></a>
+                                </li>
+                                <li>
+                                    <a target="_blank" href="http://twitter.com/twofoldcreative" class="icon-twitter"><span class="icon-twitter"></span></a>
+                                </li>
+                                <li>
+                                    <a target="_blank" href="http://google.com/+Twofold" class="icon-gplus"><span class="icon-gplus"></span></a>
+                                </li>
+                                <li>
+                                    <a target="_blank" href="http://youtube.com/user/twofoldcreative" class="icon-youtube"><span class="icon-youtube"></span></a>
+                                </li>
+                                <li>
+                                    <a target="_blank" href="http://pinterest.com/twofoldcreative" class="icon-pinterest"><span class="icon-pinterest"></span></a>
+                                </li>
+                                <li class="hidden-xs">
+                                    <a target="_blank" href="http://instagram.com/twofoldcreative" class="icon-instagram"><span class="icon-instagram"></span></a>
+                                </li>
+                                <li class="hidden-xs">
+                                    <a target="_blank" href="http://linkedin.com/company/twofold-creative" class="icon-linkedin"><span class="icon-linkedin"></span></a>
+                                </li>
+                                <li class="hidden-xs">
+                                    <a target="_blank" href="http://vimeo.com/twofold" class="icon-vimeo"><span class="icon-vimeo"></span></a>
+                                </li>
+                                <li class="hidden-xs">
+                                    <a target="_blank" href="http://dribbble.com/twofold" class="icon-dribbble"><span class="icon-dribbble"></span></a>
+                                </li>
+                                <li class="hidden-xs">
+                                    <a target="_blank" href="http://behance.net/twofold" class="icon-behance"><span class="icon-behance"></span></a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </footer>
+        </div>
+    </div>
+</div>
+<div class="sb-slidebar sb-right sb-style-overlay sb-width-custom dark" data-sb-width="50%" style="width: 50%; margin-right: -50%;">
+    <div class="slide-menu centered-translate">
+        <div class="group">
+            <i>Menu</i>
+            <hr class="sm">
+        </div>
+        <ul>
+            <li>
+                <a href="./Graphic Design & Web Design Brisbane   Twofold Creative_files/Graphic Design & Web Design Brisbane   Twofold Creative.html"><span data-hover="Home">Home</span></a>
+            </li>
+            <li><a href="http://twofold.com/about/"><span data-hover="About">About</span></a></li>
+            <li><a href="http://twofold.com/work/"><span data-hover="Work">Work</span></a></li>
+            <li><a href="http://twofold.com/blog/"><span data-hover="Blog">Blog</span></a></li>
+            <li><a href="http://twofold.com/contact/"><span data-hover="Talk">Talk</span></a></li>
+        </ul>
+    </div>
+</div>
+<div class="modal modal-fullscreen" id="modal-fullscreen">
+    <a href="" class="trigger trigger-icon trigger-close link-square light pull-right pull-top" data-dismiss="modal"><span>Close</span></a>
+
+    <div class="modal-dialog">
+        <div class="container centered-translate align-center">
+            <div class="row">
+                <div class="col-sm-8 col-sm-offset-2">
+                    <div class="gf_browser_chrome gform_wrapper gplaceholder_wrapper" id="gform_wrapper_2">
+                        <form method="post" enctype="multipart/form-data" target="gform_ajax_frame_2" id="gform_2" class="gplaceholder" action="./Graphic Design & Web Design Brisbane   Twofold Creative_files/Graphic Design & Web Design Brisbane   Twofold Creative.html">
+                            <div class="gform_body">
+                                <ul id="gform_fields_2" class="gform_fields top_label description_below">
+                                    <li id="field_2_1" class="gfield               gfield_contains_required">
+                                        <label class="gfield_label" for="input_2_1" style="display: none;">Name<span class="gfield_required">*</span></label>
+
+                                        <div class="ginput_container">
+                                            <input name="input_1" id="input_2_1" type="text" value="" class="medium" tabindex="1000" placeholder="Name *">
+                                        </div>
+                                        <a class="form-info" data-toggle="popover" data-trigger="hover" data-placement="left" data-content="Enter your name" data-original-title="Name"><img src="./Graphic Design & Web Design Brisbane   Twofold Creative_files/icon-name-sm.svg" alt="Name"></a>
+                                    </li>
+                                    <li id="field_2_3" class="gfield               gfield_contains_required">
+                                        <label class="gfield_label" for="input_2_3" style="display: none;">Email<span class="gfield_required">*</span></label>
+
+                                        <div class="ginput_container">
+                                            <input name="input_3" id="input_2_3" type="text" value="" class="medium" tabindex="1001" placeholder="Email *">
+                                        </div>
+                                        <a class="form-info" data-toggle="popover" data-trigger="hover" data-placement="left" data-content="Enter your email address" data-original-title="Email"><img src="./Graphic Design & Web Design Brisbane   Twofold Creative_files/icon-mail-sm.svg" alt="Email"></a>
+                                    </li>
+                                    <li id="field_2_5" class="gfield">
+                                        <label class="gfield_label" for="input_2_5" style="display: none;">Message</label>
+
+                                        <div class="ginput_container">
+                                            <input name="input_5" id="input_2_5" type="text" value="" class="medium" tabindex="1002" placeholder="Message">
+                                        </div>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class="gform_footer top_label">
+                                <input type="submit" id="gform_submit_button_2" class="gform_button button" value="Submit" tabindex="1003" onclick="if(window[&quot;gf_submitting_2&quot;]){return false;}  window[&quot;gf_submitting_2&quot;]=true; " placeholder="" data-toggle="popover" data-trigger="hover" data-placement="left" data-content="Send your message" data-original-title="Send"><input type="hidden" name="gform_ajax" value="form_id=2&amp;title=&amp;description=&amp;tabindex=1000">
+                                <input type="hidden" class="gform_hidden" name="is_submit_2" value="1">
+                                <input type="hidden" class="gform_hidden" name="gform_submit" value="2">
+                                <input type="hidden" class="gform_hidden" name="gform_unique_id" value="">
+                                <input type="hidden" class="gform_hidden" name="state_2" value="WyJbXSIsImI3MWQzYTY3YmRhMGMyYTU3NGFiYTQwNzM4ZTEyZTE0Il0=">
+                                <input type="hidden" class="gform_hidden" name="gform_target_page_number_2" id="gform_target_page_number_2" value="0">
+                                <input type="hidden" class="gform_hidden" name="gform_source_page_number_2" id="gform_source_page_number_2" value="1">
+                                <input type="hidden" name="gform_field_values" value="">
+                            </div>
+                        </form>
+                    </div>
+                    <iframe style="display:none;width:0px;height:0px;" src="about:blank" name="gform_ajax_frame_2" id="gform_ajax_frame_2"></iframe>
+                    <script type="text/javascript">jQuery(document).ready(function ($) {
+                        gformInitSpinner(2, 'http://twofold.com/wp-content/plugins/gravityforms/images/spinner.gif');
+                        jQuery('#gform_ajax_frame_2').load(function () {
+                            var contents = jQuery(this).contents().find('*').html();
+                            var is_postback = contents.indexOf('GF_AJAX_POSTBACK') >= 0;
+                            if (!is_postback) {
+                                return;
+                            }
+                            var form_content = jQuery(this).contents().find('#gform_wrapper_2');
+                            var is_redirect = contents.indexOf('gformRedirect(){') >= 0;
+                            var is_form = !(form_content.length <= 0 || is_redirect);
+                            if (is_form) {
+                                jQuery('#gform_wrapper_2').html(form_content.html());
+                                if (window['gformInitDatepicker']) {
+                                    gformInitDatepicker();
+                                }
+                                if (window['gformInitPriceFields']) {
+                                    gformInitPriceFields();
+                                }
+                                var current_page = jQuery('#gform_source_page_number_2').val();
+                                gformInitSpinner(2, 'http://twofold.com/wp-content/plugins/gravityforms/images/spinner.gif');
+                                jQuery(document).trigger('gform_page_loaded', [2, current_page]);
+                                window['gf_submitting_2'] = false;
+                            } else if (!is_redirect) {
+                                var confirmation_content = jQuery(this).contents().find('#gforms_confirmation_message').html();
+                                if (!confirmation_content) {
+                                    confirmation_content = contents;
+                                }
+                                setTimeout(function () {
+                                    jQuery('#gform_wrapper_2').replaceWith('<' + 'div id=\'gforms_confirmation_message\' class=\'gform_confirmation_message_2\'' + '>' + confirmation_content + '<' + '/div' + '>');
+                                    jQuery(document).trigger('gform_confirmation_loaded', [2]);
+                                    window['gf_submitting_2'] = false;
+                                }, 50);
+                            } else {
+                                jQuery('#gform_2').append(contents);
+                                if (window['gformRedirect']) {
+                                    gformRedirect();
+                                }
+                            }
+                            jQuery(document).trigger('gform_post_render', [2, current_page]);
+                        });
+                    });</script>
+                    <script type="text/javascript"> jQuery(document).ready(function () {
+                        jQuery(document).trigger('gform_post_render', [2, 1])
+                    }); </script>
+                </div>
+            </div>
+        </div>
+    </div>
+=======
+<h2 id="editor1" contenteditable="{{inlineEditor}}">{{data.title}}</h2>
+
+<div class="span6 pull-right">
+    <a ng-click="addEditor()" class="btn  btn-success btn-info"><span class="glyphicon glyphicon-pencil"></span> Edit page</a>
+    <a ng-click="enableEdit()" class="btn btn-info"><span class="glyphicon glyphicon-pencil"></span> Enable inline editor</a>
+</div>
+
+<div ng-bind-html="data.content"></div>
+
+<!--<div ng-repeat="editor in ckEditors">-->
+<!---->
+<!--<br />-->
+<!--</div>-->
+<div ng-show="editor">
+    <textarea data-ng-model="data.content" data-ck-editor></textarea>
+    <a ng-click="closeEditor()">Cancel </a>
+    <a ng-click="saveData()" class="btn btn-success"> Save data</a>
+>>>>>>> 72c72d1301c25c22b1302e0e49fd716497930640
+</div>
+<script type="text/javascript" src="./Graphic Design & Web Design Brisbane   Twofold Creative_files/js"></script>
+<script src="./Graphic Design & Web Design Brisbane   Twofold Creative_files/main.js"></script>
+<script type="text/javascript">
+    var brisbane = new google.maps.LatLng(-27.492699, 152.978187);
+    var colorado = new google.maps.LatLng(40.014986, -105.270546);
+    var map;
+    var markersArray = [];
+    var template_url = "http://twofold.com/wp-content/themes/theme";
+</script>
+<script src="./Graphic Design & Web Design Brisbane   Twofold Creative_files/jquery.pjax.js" type="text/javascript" charset="utf-8"></script>
+<script src="./Graphic Design & Web Design Brisbane   Twofold Creative_files/TweenMax.min.js"></script>
+<script src="./Graphic Design & Web Design Brisbane   Twofold Creative_files/gsag.js" type="text/javascript" charset="utf-8"></script>
+<script src="./Graphic Design & Web Design Brisbane   Twofold Creative_files/bootstrap.min.js"></script>
+<script src="./Graphic Design & Web Design Brisbane   Twofold Creative_files/plugins.js"></script>
+<script src="./Graphic Design & Web Design Brisbane   Twofold Creative_files/main(1).js"></script>
+<script type="text/javascript" src="./Graphic Design & Web Design Brisbane   Twofold Creative_files/jquery.json-1.3.js"></script>
+<script type="text/javascript" src="./Graphic Design & Web Design Brisbane   Twofold Creative_files/jquery.placeholders.2.1.1.min.js"></script>
+<script type="text/javascript" src="./Graphic Design & Web Design Brisbane   Twofold Creative_files/gravityforms.js"></script>
+
+<<<<<<< HEAD
+
+<iframe src="./Graphic Design & Web Design Brisbane   Twofold Creative_files/saved_resource.html" style="display: none !important;"></iframe>
+<style>#content > #center > .dose > .dosesingle,
+#content > #right > .dose > .dosesingle,
+#header + #content > #left > #rlblock_left {
+    display: none !important;
+}</style>
+<style>[href^="http://www.faceporn.net/free?"] {
+    display: none !important;
+}</style>
+</body>
+</html>
+=======
+<br/><br/>
+<p><strong>Or wait a moment!</strong><br/>
+<p contenteditable="{{inlineEditor}}">You also can edit this inline!! is not marcellous?</p>
+</p>
+>>>>>>> 72c72d1301c25c22b1302e0e49fd716497930640

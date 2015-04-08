@@ -30,4 +30,5 @@ angular.module('App')
         $scope.mobileMenuToggle = function ($rootScope) {
             $rootScope.$broadcast('mobileMenuToggle');
         }
+
     });
