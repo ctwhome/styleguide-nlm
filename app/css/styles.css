@@ -9,66 +9,45 @@
  */
 /* VENDOR - Default fall-backs and external files.
 ========================================================================== */
-@import url(metronic/global/plugins/font-awesome/css/font-awesome.min.css);
-@import url(metronic/global/plugins/simple-line-icons/simple-line-icons.min.css);
-@import url(metronic/global/plugins/bootstrap/css/bootstrap.min.css);
-@import url(metronic/global/plugins/uniform/css/uniform.default.css);
-@import url(metronic/global/plugins/bootstrap-switch/css/bootstrap-switch.min.css);
-@import url(../../assets/global/css/components.css);
-@import url(../../assets/global/css/plugins.css);
-@import url(../../assets/admin/layout2/css/layout.css);
-@import url(../../assets/admin/layout2/css/themes/grey.css);
-@import url(../../assets/admin/layout2/css/custom.css);
 /* BASE - Base Variable file along with starting point Mixins and Placeholders.
 ========================================================================== */
 /* MODULES - Re-usable site elements.
 ========================================================================== */
 /* FRAMEWORK - Structure and layout files.
 ========================================================================== */
-/* line 1, ../sass/framework/_main.scss */
 .hide {
-  display: none;
-}
+  display: none; }
 
-/* line 5, ../sass/framework/_main.scss */
 a {
-  cursor: pointer;
-}
+  cursor: pointer; }
 
-/* line 1, ../sass/framework/_header.scss */
 .page-header.navbar .page-logo {
-  background: transparent;
-}
+  background: transparent; }
 
-/* line 5, ../sass/framework/_header.scss */
 .page-header.navbar .page-logo .logo-default {
-  margin: 10px 0 0 0;
-}
+  margin: 10px 0 0 0; }
 
-/* line 9, ../sass/framework/_header.scss */
 .page-header.navbar .top-menu .navbar-nav > li.dropdown > .dropdown-toggle:last-child {
-  padding-right: 16px;
-}
+  padding-right: 16px; }
 
-/* line 13, ../sass/framework/_header.scss */
 .menu-toggler-icon {
   float: left;
   margin: 29px;
   background-image: url("../css/metronic/admin/layout2/img/sidebar_toggler_icon_grey.png");
   display: block;
   width: 16px;
-  height: 13px;
-}
-/* line 20, ../sass/framework/_header.scss */
-.menu-toggler-icon:hover {
-  background-image: url("../css/metronic/admin/layout2/img/sidebar_toggler_icon_darkblue.png");
-}
+  height: 13px; }
+  .menu-toggler-icon:hover {
+    background-image: url("../css/metronic/admin/layout2/img/sidebar_toggler_icon_darkblue.png"); }
 
-/* line 24, ../sass/framework/_header.scss */
 .logo-company {
   float: left;
-  margin: 10px 0 0 15px;
-}
+  margin: 10px 0 0 15px; }
+
+* {
+  background-color: #0000ff; }
 
 /* VIEWS - PAGES
 ========================================================================== */
+
+/*# sourceMappingURL=styles.css.map */

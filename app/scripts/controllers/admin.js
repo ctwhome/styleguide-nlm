@@ -2,13 +2,13 @@
 
 /**
  * @ngdoc function
- * @name stocksApp.controller:PageLoginCtrl
+ * @name stocksApp.controller:AdminCtrl
  * @description
- * # PageLoginCtrl
+ * # AdminCtrl
  * Controller of the stocksApp
  */
 angular.module('App')
-  .controller('PageLoginCtrl', function ($scope) {
+  .controller('AdminCtrl', function ($scope) {
     $scope.awesomeThings = [
       'HTML5 Boilerplate',
       'AngularJS',
