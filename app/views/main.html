@@ -3,15 +3,72 @@
     UI and UX Styleguide
     <small>Documentation</small>
 </h3>
-
 </div>
 <!-- END PAGE HEADER-->
-<!-- BEGIN PAGE CONTENT-->
+
 <div class="portlet light">
     <div class="portlet-body">
         <div class="row">
             <div class="col-md-12">
-                <p>The main goal of this StyleGuide is define the visual identity of the product and set the references for the UX..</p>
+                <!-- BEGIN PAGE CONTENT-->
+
+                <h3>Technologies used in Front-end</h3>
+
+                <p>
+                    We use gulp as the task runner. To install gulp is necesary to have:
+                <ol>
+                    <li>
+                        <p>Install <a href="https://nodejs.org/" target="_blank">Node.js</a></p>
+                    </li>
+                    <li>
+                        <p>To run <strong>gulpfile</strong>&nbsp;from the FrontEnd path in the project run
+                            &quot;<strong>npm install</strong>&quot;. (Only necesary when chekout the project for first
+                            time, or updates of the gulpfile)</p>
+                    </li>
+                </ol>
+                </p>
+                <p>
+                    Go to the <a href="/#/documentation">documentation</a> section to see the description of the gulp
+                    tasks
+                </p>
+
+                <h4>Scafolding</h4>
+
+                   <pre>
+        |--  src/
+        |   |--  app/
+        |   |   |--  components/
+        |   |   |   |--  navbar/
+        |   |   |   |   |--  navbar.controller.js
+        |   |   |   |   |--  navbar.html
+        |   |   |--  main/
+        |   |   |   |--  main.controller.js
+        |   |   |   |--  main.controller.spec.js
+        |   |   |   |--  main.html
+        |   |   |--  index.js
+        |   |   |--  index.(css|less|scss)
+        |   |   |--  vendor.(css|less|scss)
+        |   |--  assets/
+        |   |   |--  images/
+        |   |--  404.html
+        |   |--  favico.ico
+        |   |--  index.html
+        |--  gulp/
+        |--  e2e/
+        |--  bower_components/
+        |--  nodes_modules/
+        |--  .bowerrc
+        |--  .editorconfig
+        |--  .gitignore
+        |--  .jshintrc
+        |--  bower.json
+        |--  gulpfile.js
+        |--  karma.conf.js
+        |--  package.json
+        |--  protractor.conf.js
+                   </pre>
+
+
             </div>
         </div>
     </div>

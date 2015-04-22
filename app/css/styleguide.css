@@ -1,0 +1,16 @@
+.col-md-12{
+    max-width: 1000px;
+}
+
+ul.technologies{
+    list-style: none;
+}
+ul.technologies li{
+    width: 270px;
+    display: inline-block;
+    vertical-align: top;
+    margin: 10px;
+}
+ul.technologies li img{
+    height: 50px;
+}
